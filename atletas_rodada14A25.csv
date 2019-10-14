@@ -1,0 +1,826 @@
+,id,apelido,ult_pontuacao,scout,posicao,clube,status,em_casa
+0,50294,Guilherme,0.0,"{'CA': 2, 'FC': 4, 'FS': 3, 'PE': 6, 'RB': 2}",mei,FLU,Nulo,0
+1,37614,Evandro,2.1,"{'A': 2, 'CV': 1, 'FC': 12, 'FD': 1, 'FF': 1, 'FS': 6, 'PE': 12, 'RB': 6}",mei,SAN,Provável,1
+2,37246,Ney Franco,6.3,{},tec,GOI,Provável,1
+3,50284,Wilson,0.7,"{'DD': 8, 'FS': 1, 'GS': 9, 'PE': 2}",gol,ATL,Dúvida,0
+4,50313,Elicarlos,1.2,"{'CA': 4, 'FC': 18, 'FD': 2, 'FF': 7, 'FS': 14, 'PE': 19, 'RB': 12}",mei,CHA,Provável,0
+5,37656,Fábio,7.0,"{'CA': 2, 'DD': 27, 'DP': 2, 'FS': 3, 'GS': 27, 'PE': 9, 'SG': 7}",gol,CRU,Provável,1
+6,37655,Rafael Moura,0.2,"{'CA': 1, 'FC': 24, 'FD': 2, 'FF': 4, 'FS': 13, 'I': 1, 'PE': 12, 'RB': 4}",ata,GOI,Provável,1
+7,50293,Ramires,0.0,"{'FC': 2, 'FF': 1, 'FS': 2, 'PE': 1, 'RB': 2}",mei,PAL,Contundido,1
+8,50301,Everton,0.0,"{'A': 2, 'CA': 3, 'FC': 32, 'FD': 3, 'FF': 3, 'FS': 22, 'G': 1, 'I': 7, 'PE': 31, 'RB': 18}",mei,SAO,Contundido,0
+9,37657,Edu Dracena,0.0,"{'FC': 3, 'FD': 1, 'FF': 3, 'FS': 2, 'PE': 1, 'RB': 4, 'SG': 2}",zag,PAL,Nulo,1
+10,37646,Betão,0.9,"{'CA': 5, 'CV': 1, 'FC': 14, 'FD': 1, 'FF': 2, 'FS': 21, 'PE': 43, 'RB': 29, 'SG': 6}",zag,AVA,Provável,1
+11,37281,Mano Menezes,6.11,{},tec,PAL,Provável,1
+12,50324,Hudson,0.0,"{'A': 1, 'CA': 3, 'FC': 25, 'FD': 4, 'FF': 1, 'FS': 10, 'G': 1, 'I': 1, 'PE': 18, 'RB': 22}",mei,SAO,Nulo,0
+13,50328,Marcelo Oliveira,0.0,{},zag,GRE,Contundido,1
+14,50317,David Braz,-0.1,"{'FC': 8, 'FD': 2, 'FF': 7, 'FS': 1, 'G': 2, 'PE': 14, 'RB': 16, 'SG': 4}",zag,GRE,Dúvida,1
+15,50407,Marquinho,0.0,"{'FC': 9, 'FD': 2, 'FF': 1, 'FS': 3, 'I': 1, 'PE': 6, 'RB': 6}",mei,VAS,Nulo,1
+16,50645,Eduardo,0.0,"{'A': 1, 'CA': 2, 'FC': 17, 'FS': 19, 'PE': 46, 'RB': 20, 'SG': 4}",lat,CHA,Contundido,0
+17,51042,Apodi,0.0,"{'A': 1, 'CA': 3, 'FC': 36, 'FD': 8, 'FF': 8, 'FS': 27, 'G': 3, 'I': 5, 'PE': 41, 'RB': 10, 'SG': 7}",lat,CSA,Dúvida,1
+18,51194,Rafael Pereira,-2.0,"{'CA': 3, 'FC': 2, 'FS': 3, 'G': 1, 'PE': 14, 'RB': 6}",zag,CHA,Suspenso,0
+19,51415,Roger Carvalho,0.0,"{'FC': 5, 'FF': 3, 'FS': 3, 'PE': 24, 'RB': 5, 'SG': 2}",zag,FOR,Contundido,1
+20,50408,Breno,0.0,{},zag,VAS,Nulo,1
+21,50459,Léo,0.0,"{'CA': 1, 'FC': 16, 'FS': 4, 'PE': 15, 'RB': 15, 'SG': 3}",zag,CRU,Contundido,1
+22,50877,Pedro Ken,0.0,"{'CA': 2, 'FC': 9, 'FS': 11, 'PE': 6, 'RB': 8}",mei,CEA,Nulo,0
+23,51495,Tiago Alves,9.8,"{'A': 1, 'CA': 1, 'FC': 12, 'FD': 1, 'FF': 2, 'FS': 2, 'FT': 1, 'G': 1, 'I': 2, 'PE': 27, 'RB': 12, 'SG': 4}",zag,CEA,Dúvida,0
+24,51549,Adalberto,-2.8,"{'CA': 1, 'FC': 1, 'PE': 1}",zag,FOR,Nulo,1
+25,52618,Anderson Martins,0.0,"{'CA': 5, 'FC': 12, 'FS': 1, 'PE': 12, 'RB': 13, 'SG': 4}",zag,SAO,Nulo,0
+26,51413,Walter,0.0,"{'DD': 7, 'FS': 1, 'GS': 1, 'PE': 2, 'SG': 2}",gol,COR,Nulo,0
+27,51772,Everton Ribeiro,-1.3,"{'A': 5, 'CA': 3, 'FC': 20, 'FD': 8, 'FF': 12, 'FS': 41, 'G': 1, 'I': 1, 'PE': 62, 'RB': 29}",mei,FLA,Suspenso,0
+28,54395,Elias,1.2,"{'A': 1, 'CA': 2, 'CV': 1, 'FC': 24, 'FD': 5, 'FF': 4, 'FS': 14, 'FT': 1, 'G': 1, 'PE': 58, 'RB': 25}",mei,ATL,Provável,0
+29,52674,Gilson,5.0,"{'A': 1, 'CA': 3, 'CV': 2, 'FC': 20, 'FF': 1, 'FS': 16, 'PE': 37, 'RB': 19, 'SG': 5}",lat,BOT,Dúvida,0
+30,52558,Bruno César,0.0,"{'CA': 1, 'FC': 5, 'FF': 1, 'FS': 12, 'G': 2, 'I': 1, 'PE': 10, 'PP': 1, 'RB': 1}",mei,VAS,Nulo,1
+31,52950,Victor,0.0,"{'CA': 1, 'DD': 17, 'GS': 11, 'PE': 7, 'SG': 1}",gol,ATL,Nulo,0
+32,52190,Ralf,0.0,"{'CA': 1, 'FC': 17, 'FD': 1, 'FF': 1, 'FS': 24, 'FT': 1, 'G': 1, 'PE': 19, 'RB': 39}",mei,COR,Nulo,0
+33,52253,Réver,4.2,"{'A': 1, 'CA': 1, 'FC': 3, 'FD': 4, 'FF': 7, 'FS': 11, 'FT': 2, 'I': 1, 'PE': 25, 'RB': 30, 'SG': 3}",zag,ATL,Provável,0
+34,37673,Alecsandro,-0.8,"{'CA': 1, 'FC': 16, 'FD': 5, 'FF': 9, 'FS': 6, 'G': 1, 'I': 4, 'PE': 14, 'PP': 1, 'RB': 3}",ata,CSA,Provável,1
+35,60819,Dedé,11.5,"{'CA': 2, 'FC': 13, 'FD': 4, 'FF': 6, 'FS': 19, 'G': 3, 'PE': 42, 'RB': 26, 'SG': 7}",zag,CRU,Provável,1
+36,61188,Gilberto,7.9,"{'A': 3, 'FC': 20, 'FD': 9, 'FF': 20, 'FS': 12, 'FT': 2, 'G': 11, 'I': 6, 'PE': 26, 'RB': 18}",ata,BAH,Provável,0
+37,37688,Cícero,0.0,"{'A': 1, 'CA': 6, 'FC': 15, 'FD': 5, 'FF': 9, 'FS': 48, 'G': 3, 'I': 4, 'PE': 34, 'RB': 24}",mei,BOT,Provável,0
+38,60791,Derley,0.0,"{'CA': 1, 'FC': 1, 'RB': 1}",mei,FOR,Nulo,1
+39,60852,Uendel,0.0,"{'CA': 1, 'FC': 13, 'FD': 2, 'FF': 4, 'FS': 4, 'I': 4, 'PE': 28, 'RB': 18, 'SG': 3}",lat,INT,Nulo,0
+40,37694,Henrique,5.8,"{'CA': 3, 'FC': 29, 'FD': 3, 'FF': 10, 'FS': 33, 'I': 1, 'PE': 28, 'RB': 43}",mei,CRU,Provável,1
+41,60969,Patric,-1.5,"{'A': 1, 'CA': 3, 'FC': 25, 'FD': 3, 'FF': 7, 'FS': 5, 'PE': 39, 'RB': 14, 'SG': 3}",lat,ATL,Dúvida,0
+42,37788,Marcelo Boeck,7.0,"{'CA': 1, 'DD': 15, 'FS': 1, 'GS': 10, 'PE': 3, 'SG': 2}",gol,FOR,Provável,1
+43,37701,Léo Moura,0.0,"{'A': 1, 'FC': 3, 'FF': 1, 'FS': 9, 'PE': 34, 'RB': 7, 'SG': 3}",lat,GRE,Dúvida,1
+44,62974,Werley,0.0,"{'FC': 5, 'FD': 3, 'FS': 1, 'GC': 1, 'I': 3, 'PE': 5, 'RB': 1}",zag,VAS,Nulo,1
+45,63172,Paulão,3.2,"{'FC': 1, 'FD': 1, 'FS': 1, 'PE': 2, 'RB': 3, 'SG': 1}",zag,FOR,Nulo,1
+46,38001,Anderson,0.0,"{'DD': 1, 'GS': 2}",gol,BAH,Nulo,0
+47,63110,Alan Ruschel,0.0,"{'CA': 4, 'FC': 19, 'FD': 2, 'FF': 1, 'FS': 15, 'G': 1, 'PE': 9, 'RB': 6, 'SG': 2}",lat,GOI,Nulo,1
+48,63194,Carlinhos,-0.9,"{'A': 2, 'CA': 4, 'CV': 1, 'FC': 40, 'FD': 4, 'FF': 7, 'FS': 15, 'G': 1, 'I': 1, 'PE': 44, 'RB': 39, 'SG': 3}",lat,FOR,Provável,1
+49,62977,Ganso,0.0,"{'CA': 6, 'FC': 18, 'FD': 7, 'FF': 12, 'FS': 20, 'G': 2, 'PE': 58, 'RB': 18}",mei,FLU,Provável,0
+50,63178,Didira,0.0,"{'CA': 3, 'FC': 14, 'FD': 2, 'FF': 3, 'FS': 14, 'PE': 21, 'RB': 17}",mei,CSA,Contundido,1
+51,63219,Luan,7.2,"{'A': 1, 'CA': 4, 'FC': 26, 'FD': 4, 'FF': 13, 'FS': 31, 'G': 1, 'I': 1, 'PE': 48, 'PP': 1, 'RB': 34}",mei,ATL,Provável,0
+52,63082,Rodolfo,0.0,"{'DD': 7, 'FS': 1, 'GS': 12, 'PE': 5}",gol,FLU,Suspenso,0
+53,63013,Marcos Rocha,12.3,"{'A': 1, 'CA': 2, 'FC': 29, 'FD': 1, 'FF': 4, 'FS': 23, 'G': 1, 'I': 1, 'PE': 58, 'RB': 54, 'SG': 6}",lat,PAL,Provável,1
+54,63128,Douglas,0.4,"{'CA': 5, 'FC': 18, 'FF': 5, 'FS': 3, 'PE': 12, 'RB': 7, 'SG': 2}",zag,CHA,Provável,0
+55,63354,Rodrigo Moledo,0.0,"{'CA': 1, 'FC': 3, 'FD': 2, 'FF': 1, 'FS': 2, 'G': 1, 'PE': 5, 'RB': 12, 'SG': 3}",zag,INT,Contundido,0
+56,68690,André,5.2,"{'A': 2, 'CA': 2, 'FC': 16, 'FD': 5, 'FF': 5, 'FS': 17, 'FT': 1, 'G': 2, 'I': 4, 'PE': 17, 'PP': 1, 'RB': 9}",ata,GRE,Provável,1
+57,37798,Rafael Sobis,0.0,"{'A': 3, 'CA': 4, 'FC': 12, 'FD': 16, 'FF': 15, 'FS': 10, 'G': 2, 'PE': 20, 'RB': 10}",ata,INT,Contundido,0
+58,63422,Jucilei,0.0,{},mei,SAO,Nulo,0
+59,71162,Vinícius,1.7,"{'A': 2, 'CA': 2, 'FC': 10, 'FD': 10, 'FF': 12, 'FS': 15, 'FT': 1, 'G': 2, 'I': 1, 'PE': 53, 'RB': 12}",mei,ATL,Nulo,0
+60,68696,Bergson,11.5,"{'CA': 1, 'FC': 12, 'FD': 10, 'FF': 11, 'FS': 16, 'G': 1, 'I': 6, 'PE': 13, 'RB': 4}",ata,CEA,Nulo,0
+61,68698,Bruno Silva,-0.3,"{'CA': 3, 'FC': 18, 'FD': 2, 'FF': 2, 'FS': 13, 'I': 1, 'PE': 19, 'RB': 20}",mei,INT,Nulo,0
+62,68727,Dodô,0.0,"{'CA': 1, 'FC': 16, 'FD': 3, 'FF': 2, 'FS': 5, 'FT': 1, 'I': 1, 'PE': 29, 'RB': 16, 'SG': 4}",lat,CRU,Nulo,1
+63,71233,Guarín,0.0,{},mei,VAS,Nulo,1
+64,71604,Fábio Sanches,5.0,"{'CA': 1, 'FC': 5, 'FD': 1, 'FF': 3, 'FS': 13, 'G': 1, 'PE': 16, 'RB': 12, 'SG': 5}",zag,GOI,Provável,1
+65,79702,Antônio Carlos ,0.0,"{'CA': 2, 'FC': 7, 'FS': 2, 'PE': 8, 'RB': 6, 'SG': 3}",zag,PAL,Nulo,1
+66,71571,Fernando Miguel,5.0,"{'CA': 1, 'DD': 19, 'FS': 2, 'GS': 15, 'PE': 7, 'SG': 6}",gol,VAS,Provável,1
+67,63289,Edenílson,1.7,"{'A': 1, 'CA': 4, 'FC': 16, 'FD': 4, 'FF': 2, 'FS': 17, 'G': 5, 'PE': 36, 'RB': 17}",mei,INT,Provável,0
+68,71479,Lucho González,-0.3,"{'CA': 1, 'FC': 16, 'FD': 2, 'FF': 6, 'FS': 3, 'G': 1, 'PE': 19, 'RB': 4}",mei,ATL,Dúvida,0
+69,68773,Henrique Almeida,4.8,"{'CA': 1, 'FC': 4, 'FD': 3, 'FF': 8, 'FS': 5, 'PE': 3, 'RB': 5}",ata,CHA,Nulo,0
+70,68770,Camacho,0.0,"{'FC': 1, 'FS': 1, 'PE': 1, 'RB': 1}",mei,ATL,Suspenso,0
+71,79887,Fabiano,0.0,{},lat,PAL,Nulo,1
+72,68808,Nino Paraíba,0.0,"{'A': 4, 'CA': 4, 'FC': 22, 'FD': 7, 'FF': 5, 'FS': 25, 'FT': 1, 'G': 2, 'PE': 45, 'RB': 27, 'SG': 10}",lat,BAH,Contundido,0
+73,82407,Chico,0.0,"{'CA': 1, 'FC': 14, 'FD': 1, 'FF': 1, 'FS': 8, 'PE': 7, 'RB': 6}",mei,CEA,Nulo,0
+74,68821,Rafael Galhardo,10.4,"{'A': 2, 'FC': 6, 'FD': 3, 'FF': 2, 'FS': 5, 'G': 2, 'I': 1, 'PE': 20, 'RB': 12, 'SG': 4}",lat,GRE,Dúvida,1
+75,71680,Raúl Cáceres,0.0,"{'CA': 1, 'FC': 11, 'FD': 1, 'FS': 1, 'I': 1, 'PE': 6, 'RB': 2, 'SG': 1}",lat,VAS,Nulo,1
+76,71631,Weverton,0.0,"{'DD': 20, 'FS': 3, 'GS': 16, 'PE': 5, 'SG': 5}",gol,PAL,Provável,1
+77,68872,Marcelo Lomba,5.5,"{'CA': 1, 'DD': 29, 'FS': 7, 'GS': 21, 'PE': 2, 'SG': 8}",gol,INT,Provável,0
+78,68817,Paulo Miranda,-1.0,"{'CA': 2, 'FC': 10, 'FD': 1, 'FS': 4, 'GC': 1, 'PE': 12, 'RB': 11, 'SG': 3}",zag,GRE,Nulo,1
+79,71667,Geovane,0.0,"{'CA': 4, 'FC': 37, 'FD': 1, 'FF': 8, 'FS': 9, 'PE': 34, 'RB': 21}",mei,GOI,Nulo,1
+80,71224,Jorge Jesus,6.17,{},tec,FLA,Provável,0
+81,71719,Elton,0.0,"{'CA': 1, 'FC': 19, 'FD': 1, 'FF': 4, 'PE': 15, 'RB': 18}",mei,BAH,Contundido,0
+82,68886,Digão,5.0,"{'CA': 1, 'CV': 2, 'FC': 15, 'FF': 1, 'FS': 7, 'I': 1, 'PE': 16, 'RB': 12, 'SG': 4}",zag,FLU,Dúvida,0
+83,71684,Gustavo Gómez,0.0,"{'CA': 4, 'CV': 1, 'FC': 11, 'FD': 3, 'FF': 1, 'FS': 9, 'G': 2, 'PE': 12, 'RB': 13, 'SG': 3}",zag,PAL,Provável,1
+84,68834,Rithely,0.0,"{'A': 1, 'FC': 14, 'FD': 1, 'FF': 2, 'FS': 6, 'PE': 13, 'RB': 17}",mei,INT,Nulo,0
+85,68873,Paulo Victor,6.7,"{'CA': 1, 'DD': 28, 'FS': 1, 'GS': 14, 'PE': 11, 'SG': 7}",gol,GRE,Provável,1
+86,68887,Gum,0.0,"{'CA': 1, 'CV': 1, 'FC': 10, 'FD': 6, 'FF': 7, 'FS': 14, 'G': 1, 'GC': 1, 'I': 2, 'PE': 42, 'RB': 13, 'SG': 4}",zag,CHA,Provável,0
+87,71787,Juninho Quixadá,0.6,"{'FC': 2, 'FF': 3, 'FS': 3, 'FT': 1, 'PE': 4}",mei,CEA,Nulo,0
+88,71844,Thiago Galhardo,9.5,"{'A': 1, 'CA': 2, 'FC': 25, 'FD': 17, 'FF': 24, 'FS': 36, 'FT': 2, 'G': 9, 'I': 4, 'PE': 57, 'PP': 1, 'RB': 22}",mei,CEA,Provável,0
+89,71882,Diogo Silva,11.0,"{'CA': 2, 'DD': 37, 'FS': 9, 'GS': 24, 'PE': 11, 'SG': 6}",gol,CEA,Provável,0
+90,68896,Ramon,0.0,{},lat,VAS,Nulo,1
+91,71724,Agenor,0.0,"{'CV': 1, 'DD': 9, 'FS': 3, 'GS': 7, 'PE': 1, 'SG': 1}",gol,FLU,Nulo,0
+92,71829,Júnior Urso,0.0,"{'CA': 3, 'FC': 21, 'FD': 7, 'FF': 6, 'FS': 15, 'I': 1, 'PE': 23, 'RB': 22}",mei,COR,Contundido,0
+93,71920,Michel,2.2,"{'CA': 3, 'FC': 28, 'FD': 5, 'FF': 5, 'FS': 2, 'GC': 2, 'PE': 25, 'RB': 39}",mei,GRE,Provável,1
+94,68920,Dudu,1.0,"{'A': 2, 'CA': 3, 'FC': 15, 'FD': 17, 'FF': 18, 'FS': 71, 'G': 6, 'I': 5, 'PE': 58, 'RB': 9}",ata,PAL,Provável,1
+95,71937,Juninho,-2.0,"{'A': 3, 'CA': 4, 'FC': 38, 'FD': 9, 'FF': 17, 'FS': 17, 'G': 2, 'GC': 1, 'PE': 50, 'RB': 33}",mei,FOR,Provável,1
+96,72018,Tiago Volpi,4.4,"{'DD': 36, 'FS': 8, 'GS': 16, 'PE': 19, 'SG': 10}",gol,SAO,Provável,0
+97,72071,Amaral,0.0,{},mei,CSA,Contundido,1
+98,72097,Giovanni,2.7,"{'CA': 1, 'FC': 4, 'FF': 1, 'FS': 1, 'PE': 13, 'RB': 7, 'SG': 4}",lat,BAH,Provável,0
+99,68895,Wellington Silva,1.5,"{'A': 1, 'CA': 1, 'FC': 3, 'FD': 4, 'FF': 8, 'FS': 23, 'G': 1, 'I': 1, 'PE': 21, 'RB': 9}",ata,INT,Nulo,0
+100,68911,Diego Souza,0.0,"{'A': 1, 'CA': 3, 'FC': 26, 'FD': 10, 'FF': 9, 'FS': 35, 'FT': 1, 'G': 5, 'I': 8, 'PE': 41, 'RB': 5}",ata,BOT,Provável,0
+101,68901,Rodrigo Pimpão,0.0,"{'A': 3, 'CA': 6, 'FC': 26, 'FD': 6, 'FF': 9, 'FS': 6, 'I': 2, 'PE': 39, 'RB': 11}",ata,BOT,Nulo,0
+102,68928,Rafael,0.0,"{'DD': 5, 'FS': 1, 'GS': 6, 'PE': 1, 'SG': 1}",gol,CRU,Nulo,1
+103,68923,Gil,-0.8,"{'A': 1, 'CA': 2, 'FC': 5, 'FD': 1, 'FF': 6, 'FS': 2, 'FT': 1, 'G': 1, 'I': 4, 'PE': 6, 'RB': 21, 'SG': 6}",zag,COR,Provável,0
+104,68930,Kieza,0.0,"{'FC': 9, 'FD': 4, 'FF': 5, 'FS': 13, 'I': 1, 'PE': 2}",ata,FOR,Provável,1
+105,72168,João Paulo,3.7,"{'A': 1, 'CA': 4, 'FC': 19, 'FD': 7, 'FF': 8, 'FS': 34, 'G': 3, 'PE': 72, 'RB': 34}",mei,BOT,Dúvida,0
+106,72359,Luiz Otávio,11.1,"{'A': 1, 'CA': 5, 'FC': 21, 'FD': 1, 'FF': 2, 'FS': 9, 'PE': 17, 'RB': 18, 'SG': 4}",zag,CEA,Provável,0
+107,72290,Jailson,0.0,"{'DD': 4, 'GS': 3}",gol,PAL,Nulo,1
+108,68925,Leonardo Silva,0.0,"{'CA': 5, 'FC': 9, 'FD': 2, 'FS': 9, 'FT': 1, 'PE': 10, 'RB': 9}",zag,ATL,Nulo,0
+109,72079,Bruno Cortez,3.6,"{'A': 2, 'FC': 10, 'FS': 12, 'G': 1, 'I': 4, 'PE': 23, 'RB': 11, 'SG': 3}",lat,GRE,Provável,1
+110,72142,Danilo Avelar,0.2,"{'CA': 4, 'FC': 20, 'FD': 5, 'FF': 2, 'FS': 24, 'G': 1, 'I': 1, 'PE': 28, 'RB': 23, 'SG': 9}",lat,COR,Provável,0
+111,68942,Luciano Castán,1.2,"{'CA': 6, 'FC': 16, 'FF': 1, 'FS': 6, 'PE': 37, 'RB': 21, 'SG': 9}",zag,CSA,Provável,1
+112,68938,Giovanni Augusto,0.0,"{'A': 1, 'CA': 1, 'CV': 1, 'FC': 16, 'FD': 6, 'FF': 8, 'FS': 15, 'PE': 37, 'RB': 14}",mei,GOI,Nulo,1
+113,72362,Rodrigo Lindoso,2.0,"{'A': 2, 'CA': 1, 'FC': 19, 'FD': 6, 'FF': 8, 'FS': 14, 'FT': 2, 'G': 3, 'I': 1, 'PE': 29, 'RB': 42}",mei,INT,Provável,0
+114,72294,Éverson,6.8,"{'CA': 1, 'DD': 21, 'DP': 1, 'FC': 1, 'FS': 7, 'GS': 17, 'PE': 29, 'SG': 9}",gol,SAN,Provável,1
+115,68950,Ronaldo Alves,3.3,"{'CA': 1, 'FC': 8, 'FF': 4, 'FS': 5, 'PE': 4, 'RB': 4, 'SG': 1}",zag,CSA,Provável,1
+116,69012,Santos,0.0,"{'CA': 1, 'DD': 22, 'DP': 1, 'FC': 1, 'FS': 4, 'GS': 16, 'PE': 16, 'SG': 6}",gol,ATL,Dúvida,0
+117,72372,Felipe Alves,0.0,"{'CA': 3, 'DD': 34, 'DP': 1, 'FC': 1, 'FS': 1, 'GS': 24, 'PE': 22, 'SG': 3}",gol,FOR,Contundido,1
+118,68987,João Vitor,0.0,"{'CA': 4, 'FC': 19, 'FS': 5, 'I': 1, 'PE': 16, 'RB': 27}",mei,CSA,Nulo,1
+119,72497,Gustavo Campanharo,0.0,"{'A': 1, 'FC': 26, 'FD': 4, 'FF': 10, 'FS': 31, 'G': 1, 'PE': 33, 'RB': 40}",mei,CHA,Nulo,0
+120,72391,Fernando Diniz,7.02,{},tec,SAO,Provável,0
+121,72620,Juanfran,0.0,"{'FC': 12, 'FS': 3, 'PE': 16, 'RB': 13, 'SG': 4}",lat,SAO,Nulo,0
+122,68954,Marquinhos Gabriel,0.3,"{'CA': 2, 'FC': 9, 'FD': 5, 'FF': 5, 'FS': 14, 'I': 1, 'PE': 19, 'RB': 13}",mei,CRU,Nulo,1
+123,69010,João Carlos,0.0,"{'CV': 1, 'DD': 1, 'FC': 1, 'FS': 1, 'GS': 2, 'PE': 1, 'SG': 1}",gol,CSA,Dúvida,1
+124,72605,Vitor Hugo,5.8,"{'FC': 8, 'FD': 4, 'FF': 4, 'FS': 5, 'I': 3, 'PE': 7, 'RB': 5, 'SG': 3}",zag,PAL,Provável,1
+125,72772,Luiz Adriano,0.0,"{'A': 1, 'FC': 12, 'FD': 1, 'FF': 3, 'FS': 11, 'G': 2, 'I': 2, 'PE': 8, 'RB': 1}",ata,PAL,Contundido,1
+126,72494,Celsinho,-1.0,"{'CA': 1, 'FC': 4, 'FS': 1, 'PE': 16, 'RB': 5, 'SG': 1}",lat,CSA,Nulo,1
+127,68952,Marinho,2.1,"{'A': 1, 'CA': 6, 'CV': 1, 'FC': 28, 'FD': 11, 'FF': 12, 'FS': 44, 'FT': 1, 'G': 3, 'I': 4, 'PE': 29, 'RB': 19}",ata,SAN,Suspenso,1
+128,73281,Renê Júnior,0.0,"{'FC': 1, 'FS': 3, 'PE': 1, 'RB': 1}",mei,COR,Nulo,0
+129,69008,Neto,0.0,{},zag,CHA,Contundido,0
+130,69040,Vladimir,6.7,"{'CA': 2, 'DD': 43, 'FS': 2, 'GS': 30, 'PE': 5, 'SG': 7}",gol,AVA,Provável,1
+131,69014,Manoel,-0.8,"{'CA': 1, 'FC': 19, 'FD': 2, 'FF': 5, 'FS': 9, 'G': 1, 'GC': 1, 'PE': 24, 'RB': 25, 'SG': 10}",zag,COR,Provável,0
+132,69022,Marcelo Cirino,-0.3,"{'A': 2, 'FC': 17, 'FD': 7, 'FF': 14, 'FS': 19, 'FT': 1, 'G': 6, 'I': 6, 'PE': 29, 'RB': 11}",ata,ATL,Provável,0
+133,73317,Argel Fucks,0.41,{},tec,CSA,Provável,1
+134,73446,Éderson,0.0,{},ata,FOR,Nulo,1
+135,73421,Rafael Vaz,10.6,"{'FC': 6, 'FD': 6, 'FF': 9, 'FS': 9, 'G': 4, 'GC': 1, 'PE': 64, 'RB': 23, 'SG': 8}",zag,GOI,Provável,1
+136,73384,Samuel Xavier,5.5,"{'A': 2, 'CA': 8, 'FC': 27, 'FD': 4, 'FF': 10, 'FS': 43, 'FT': 1, 'I': 3, 'PE': 56, 'RB': 30, 'SG': 6}",lat,CEA,Provável,0
+137,69041,Muriel,14.5,"{'CA': 1, 'DD': 24, 'FC': 1, 'FS': 5, 'GS': 12, 'PE': 5, 'SG': 5}",gol,FLU,Provável,0
+138,73465,Luccas Claro,0.0,{},zag,FLU,Nulo,0
+139,69047,Paulo Roberto,0.0,"{'FC': 5, 'FF': 1, 'FS': 7, 'PE': 7, 'RB': 2}",mei,FOR,Nulo,1
+140,69051,Danilo Fernandes,0.0,"{'DD': 8, 'GS': 2, 'PE': 1, 'SG': 1}",gol,INT,Nulo,0
+141,73501,Julinho,0.0,"{'CA': 2, 'FC': 4, 'FD': 2, 'FF': 2, 'FS': 3, 'PE': 9, 'RB': 6}",mei,AVA,Nulo,1
+142,73476,Marcão,7.59,{},tec,FLU,Provável,0
+143,69138,Pablo,0.0,"{'CA': 2, 'FC': 12, 'FD': 1, 'FF': 8, 'FS': 5, 'FT': 1, 'G': 3, 'I': 5, 'PE': 6, 'RB': 2}",ata,SAO,Contundido,0
+144,69288,Gamarra,0.0,"{'FC': 2, 'FF': 1, 'PE': 3, 'RB': 1}",ata,CSA,Nulo,1
+145,69141,Ricardo Bueno,0.0,"{'A': 2, 'CA': 3, 'FC': 22, 'FD': 6, 'FF': 8, 'FS': 17, 'G': 5, 'I': 11, 'PE': 19, 'PP': 1, 'RB': 12}",ata,CSA,Nulo,1
+146,73513,Maranhão,0.0,"{'FC': 12, 'FD': 1, 'FF': 3, 'FS': 18, 'G': 1, 'I': 4, 'PE': 14, 'RB': 6}",ata,CSA,Nulo,1
+147,73619,Wellington Nem,1.3,"{'CA': 2, 'FC': 11, 'FD': 2, 'FF': 7, 'FS': 23, 'PE': 6, 'RB': 2}",ata,FLU,Provável,0
+148,73540,Rogério,-0.6,"{'FC': 7, 'FD': 6, 'FF': 4, 'FS': 14, 'G': 1, 'I': 3, 'PE': 9, 'RB': 3}",ata,BAH,Nulo,0
+149,69161,Boselli,1.5,"{'A': 2, 'CA': 2, 'FC': 5, 'FD': 5, 'FF': 6, 'FS': 12, 'G': 3, 'I': 2, 'PE': 14, 'RB': 1}",ata,COR,Provável,0
+150,73533,Glédson,0.0,"{'DD': 2, 'GS': 2}",gol,AVA,Nulo,1
+151,69177,Léo,0.0,"{'A': 2, 'CA': 4, 'CV': 1, 'FC': 21, 'FF': 6, 'FS': 18, 'PE': 19, 'RB': 16, 'SG': 4}",lat,AVA,Nulo,1
+152,70009,Romulo,0.0,"{'CA': 3, 'FC': 18, 'FD': 2, 'FF': 3, 'FS': 9, 'G': 1, 'PE': 16, 'RB': 11}",mei,GRE,Nulo,1
+153,69705,Nikão,0.0,"{'A': 2, 'CA': 2, 'FC': 10, 'FD': 10, 'FF': 12, 'FS': 10, 'FT': 1, 'G': 4, 'I': 3, 'PE': 20, 'RB': 7}",mei,ATL,Contundido,0
+154,73608,Nenê Bonilha,0.0,"{'FC': 1, 'FF': 1}",mei,FOR,Contundido,1
+155,73620,Bruno Alves,8.0,"{'A': 1, 'CA': 3, 'FC': 30, 'FD': 1, 'FF': 6, 'FS': 13, 'PE': 24, 'RB': 27, 'SG': 9}",zag,SAO,Provável,0
+156,70046,Victor Ferraz,4.7,"{'A': 1, 'CA': 3, 'FC': 10, 'FD': 5, 'FF': 5, 'FS': 12, 'I': 1, 'PE': 52, 'RB': 27, 'SG': 11}",lat,SAN,Provável,1
+157,73721,Marcos Vinícius,1.5,"{'FC': 2, 'FS': 3, 'PE': 2, 'RB': 2}",mei,BOT,Nulo,0
+158,70116,Fellipe Bastos,4.0,"{'CA': 3, 'FC': 8, 'FD': 2, 'FF': 10, 'FS': 3, 'G': 1, 'PE': 7, 'RB': 13}",mei,VAS,Suspenso,1
+159,70222,Sidão,0.0,"{'DD': 8, 'GS': 8, 'PE': 6}",gol,VAS,Nulo,1
+160,70132,Alan Santos,1.2,"{'FC': 5, 'FF': 1, 'FS': 3, 'PE': 3, 'RB': 2}",mei,BOT,Nulo,0
+161,70666,Marllon,0.0,"{'CA': 1, 'FC': 1, 'FF': 1, 'FS': 7, 'PE': 4, 'RB': 3, 'SG': 1}",zag,COR,Nulo,0
+162,73789,Gilberto,2.7,"{'CA': 2, 'FC': 16, 'FD': 2, 'FF': 2, 'FS': 6, 'PE': 10, 'RB': 23}",mei,GOI,Provável,1
+163,70784,Joao Rojas,0.0,{},ata,SAO,Contundido,0
+164,70696,Fábio Carille,1.39,{},tec,COR,Provável,0
+165,73741,Marco Ruben,0.3,"{'A': 3, 'CA': 1, 'FC': 18, 'FD': 7, 'FF': 6, 'FS': 6, 'FT': 3, 'G': 2, 'I': 5, 'PE': 13, 'RB': 7}",ata,ATL,Dúvida,0
+166,73858,Jean Cléber,3.9,"{'A': 2, 'CA': 4, 'FC': 19, 'FD': 1, 'FF': 4, 'FS': 12, 'PE': 18, 'RB': 15}",mei,CSA,Provável,1
+167,73800,Rodrigo Caio,0.0,"{'CA': 3, 'FC': 16, 'FD': 2, 'FF': 12, 'FS': 8, 'G': 1, 'I': 1, 'PE': 18, 'RB': 16, 'SG': 8}",zag,FLA,Provável,0
+168,70360,Eduardo Sasha,4.9,"{'A': 1, 'CA': 1, 'FC': 16, 'FD': 12, 'FF': 19, 'FS': 21, 'FT': 2, 'G': 9, 'I': 5, 'PE': 43, 'RB': 27}",ata,SAN,Provável,1
+169,73974,Alison,-0.2,"{'A': 1, 'CA': 5, 'FC': 26, 'FF': 6, 'FS': 17, 'PE': 14, 'RB': 30}",mei,SAN,Nulo,1
+170,70800,Jorge Sampaoli,3.95,{},tec,SAN,Provável,1
+171,80748,Di Santo,6.6,"{'CA': 1, 'FC': 7, 'FD': 4, 'FF': 2, 'FS': 3, 'G': 2, 'I': 2, 'PE': 6, 'RB': 3}",ata,ATL,Provável,0
+172,70916,Diogo Barbosa,9.7,"{'A': 1, 'CA': 2, 'FC': 25, 'FD': 2, 'FF': 3, 'FS': 16, 'PE': 21, 'RB': 47, 'SG': 6}",lat,PAL,Provável,1
+173,73896,Geuvânio,-2.2,"{'A': 1, 'CA': 3, 'FC': 25, 'FD': 9, 'FF': 12, 'FS': 24, 'FT': 1, 'I': 1, 'PE': 30, 'RB': 17}",ata,ATL,Suspenso,0
+174,70925,Wescley,0.0,"{'CA': 1, 'FC': 8, 'FD': 2, 'FS': 6, 'I': 3, 'PE': 13, 'RB': 6}",mei,CEA,Nulo,0
+175,73992,Rodinei,0.0,"{'CA': 3, 'FC': 8, 'FD': 1, 'FF': 1, 'FS': 5, 'I': 2, 'PE': 9, 'RB': 7, 'SG': 2}",lat,FLA,Nulo,0
+176,74074,Claudio Winck,0.0,"{'CA': 1, 'FC': 2, 'FF': 2, 'PE': 6, 'RB': 5}",lat,VAS,Nulo,1
+177,70944,Bruno Henrique,2.5,"{'A': 1, 'CA': 1, 'FC': 38, 'FD': 3, 'FF': 8, 'FS': 19, 'G': 4, 'PE': 36, 'RB': 19}",mei,PAL,Provável,1
+178,74061,Gatito Fernández,0.0,"{'CA': 3, 'DD': 35, 'FS': 4, 'GS': 20, 'PE': 11, 'SG': 7}",gol,BOT,Dúvida,0
+179,74140,Élber,4.8,"{'A': 1, 'CA': 2, 'FC': 7, 'FD': 7, 'FF': 5, 'FS': 47, 'G': 2, 'I': 3, 'PE': 31, 'RB': 16}",mei,BAH,Provável,0
+180,74069,Matheus Barbosa,2.2,"{'A': 1, 'CA': 1, 'FC': 14, 'FD': 3, 'FF': 5, 'FS': 10, 'I': 1, 'PE': 32, 'RB': 20}",mei,AVA,Provável,1
+181,70934,Jackson,0.2,"{'CA': 1, 'FC': 7, 'FD': 1, 'FF': 2, 'FS': 10, 'I': 1, 'PE': 21, 'RB': 6, 'SG': 2}",zag,FOR,Provável,1
+182,75295,Paolo Guerrero,0.0,"{'CA': 1, 'CV': 1, 'FC': 13, 'FD': 8, 'FF': 15, 'FS': 16, 'FT': 1, 'G': 3, 'I': 8, 'PE': 20, 'RB': 5}",ata,INT,Nulo,0
+183,70986,Léo Cittadini,1.6,"{'A': 1, 'CA': 2, 'FC': 13, 'FD': 10, 'FF': 9, 'FS': 22, 'G': 4, 'PE': 16, 'RB': 25}",mei,ATL,Provável,0
+184,71019,Bryan Ruíz,0.0,{},mei,SAN,Nulo,1
+185,80080,Brenner,0.0,"{'CA': 4, 'FC': 24, 'FD': 3, 'FF': 7, 'FS': 19, 'FT': 1, 'G': 2, 'I': 6, 'PE': 15, 'RB': 2}",ata,AVA,Nulo,1
+186,75372,Derlis González,0.0,"{'CA': 3, 'CV': 1, 'FC': 15, 'FD': 2, 'FF': 3, 'FS': 14, 'G': 1, 'I': 6, 'PE': 16, 'RB': 9}",ata,SAN,Dúvida,1
+187,74213,Guerra,0.5,"{'CA': 3, 'FC': 8, 'FD': 1, 'FF': 4, 'FS': 3, 'G': 1, 'I': 1, 'PE': 10, 'RB': 3}",mei,BAH,Nulo,0
+188,77500,Yago,0.0,"{'CA': 3, 'FC': 9, 'FF': 1, 'FS': 2, 'I': 1, 'PE': 11, 'RB': 6, 'SG': 4}",zag,GOI,Contundido,1
+189,80129,Jadson,0.0,"{'CA': 1, 'FC': 10, 'FD': 1, 'FF': 3, 'FS': 14, 'PE': 11, 'RB': 12}",mei,CRU,Nulo,1
+190,71042,Augusto,0.0,"{'A': 2, 'FC': 25, 'FD': 9, 'FF': 3, 'FS': 15, 'I': 3, 'PE': 20, 'RB': 12}",mei,CHA,Nulo,0
+191,71043,Leo,-4.3,"{'CA': 1, 'DD': 7, 'GS': 6, 'PE': 2}",gol,ATL,Dúvida,0
+192,77570,Auremir,0.0,"{'FC': 6, 'FS': 3, 'PE': 8, 'RB': 7}",mei,CEA,Nulo,0
+193,78077,Madson,1.7,"{'CA': 2, 'FC': 14, 'FD': 3, 'FF': 1, 'FS': 21, 'G': 2, 'I': 1, 'PE': 39, 'RB': 21, 'SG': 4}",lat,ATL,Provável,0
+194,71116,Roberto,-0.3,"{'A': 1, 'FC': 4, 'FD': 2, 'FF': 2, 'FS': 5, 'I': 1, 'PE': 8, 'RB': 3}",lat,CHA,Nulo,0
+195,77809,William Pottker,0.0,"{'FC': 4, 'FD': 1, 'FF': 4, 'FS': 2, 'G': 2, 'PE': 6, 'RB': 5}",ata,INT,Nulo,0
+196,78151,Vagner,0.0,{},gol,CHA,Contundido,0
+197,71113,Felipe Baxola,0.4,"{'CA': 1, 'FC': 7, 'FD': 2, 'FF': 3, 'FS': 2, 'PE': 12, 'RB': 4}",mei,CEA,Provável,0
+198,78117,Everaldo,0.0,"{'A': 1, 'CA': 6, 'FC': 47, 'FD': 22, 'FF': 32, 'FS': 39, 'G': 8, 'I': 2, 'PE': 54, 'PP': 1, 'RB': 12}",ata,CHA,Provável,0
+199,78248,Gustavo Henrique,4.2,"{'CA': 6, 'CV': 1, 'FC': 23, 'FD': 3, 'FF': 6, 'FS': 12, 'G': 2, 'PE': 32, 'RB': 16, 'SG': 11}",zag,SAN,Provável,1
+200,78435,Vitinho,-1.2,"{'A': 3, 'CA': 1, 'FC': 18, 'FD': 8, 'FF': 12, 'FS': 14, 'G': 3, 'I': 2, 'PE': 27, 'RB': 10}",ata,FLA,Provável,0
+201,78086,César,0.0,"{'DD': 7, 'FS': 1, 'GS': 4, 'SG': 1}",gol,FLA,Nulo,0
+202,78415,Uribe,-1.6,"{'CA': 3, 'FC': 5, 'FD': 4, 'FF': 6, 'I': 2, 'PE': 9, 'RB': 1}",ata,SAN,Suspenso,1
+203,78445,Renê,12.2,"{'A': 2, 'CA': 2, 'FC': 15, 'FD': 2, 'FF': 2, 'FS': 6, 'PE': 39, 'RB': 28, 'SG': 8}",lat,FLA,Provável,0
+204,78495,Marcos,0.0,"{'DD': 1, 'FS': 1, 'GS': 2}",gol,GOI,Nulo,1
+205,78478,Willian Arão,3.4,"{'A': 5, 'CA': 2, 'FC': 36, 'FD': 6, 'FF': 12, 'FS': 17, 'FT': 1, 'G': 2, 'I': 1, 'PE': 51, 'RB': 51}",mei,FLA,Provável,0
+206,78512,Paulinho,0.0,"{'FC': 7, 'FF': 2, 'FS': 4, 'PE': 9, 'RB': 4}",lat,AVA,Nulo,1
+207,78584,Douglas Friedrich,-4.0,"{'DD': 42, 'DP': 1, 'FS': 5, 'GS': 20, 'PE': 7, 'RB': 1, 'SG': 13}",gol,BAH,Provável,0
+208,78548,Jean Mota,-1.1,"{'A': 1, 'CA': 1, 'FC': 16, 'FD': 9, 'FF': 5, 'FS': 21, 'FT': 1, 'G': 1, 'PE': 32, 'RB': 10}",mei,SAN,Nulo,1
+209,78605,Gabriel,4.4,"{'CA': 1, 'FC': 14, 'FF': 1, 'FS': 4, 'PE': 15, 'RB': 28}",mei,COR,Provável,0
+210,80193,Edinho,3.2,"{'CA': 1, 'FC': 12, 'FD': 6, 'FF': 15, 'FS': 33, 'G': 2, 'I': 2, 'PE': 25, 'RB': 6}",mei,FOR,Provável,1
+211,78654,Eduardo Brock,8.0,"{'RB': 2, 'SG': 1}",zag,CEA,Nulo,0
+212,78475,Alex Amado,0.0,{},ata,CEA,Nulo,0
+213,78577,Ricardinho,8.6,"{'A': 5, 'CA': 1, 'FC': 22, 'FD': 15, 'FF': 18, 'FS': 7, 'G': 1, 'PE': 58, 'RB': 34}",mei,CEA,Provável,0
+214,80276,Alexandre Cajuru,0.0,{},gol,CSA,Contundido,1
+215,80196,Yago Pikachu,7.5,"{'A': 1, 'CA': 5, 'FC': 15, 'FD': 4, 'FF': 15, 'FS': 39, 'FT': 1, 'G': 3, 'I': 1, 'PE': 58, 'PP': 2, 'RB': 19}",mei,VAS,Provável,1
+216,80189,Lucas Fonseca,1.6,"{'A': 1, 'CA': 2, 'FC': 6, 'FD': 2, 'FF': 3, 'FS': 9, 'PE': 43, 'RB': 14, 'SG': 13}",zag,BAH,Provável,0
+217,80287,Luciano,6.7,"{'A': 3, 'CA': 6, 'FC': 17, 'FD': 11, 'FF': 9, 'FS': 14, 'G': 3, 'I': 3, 'PE': 28, 'PP': 1, 'RB': 13}",ata,GRE,Nulo,1
+218,78855,Thiago Santos,9.2,"{'CA': 3, 'FC': 24, 'FD': 1, 'FF': 1, 'FS': 8, 'G': 1, 'I': 1, 'PE': 8, 'RB': 19}",mei,PAL,Suspenso,1
+219,78850,Reinaldo,20.7,"{'A': 1, 'CA': 4, 'FC': 28, 'FD': 7, 'FF': 18, 'FS': 27, 'FT': 1, 'G': 5, 'PE': 51, 'PP': 1, 'RB': 42, 'SG': 10}",lat,SAO,Provável,0
+220,78715,Ramiro,0.0,"{'A': 1, 'CA': 1, 'FC': 20, 'FD': 1, 'FF': 3, 'FS': 10, 'PE': 17, 'RB': 10}",mei,COR,Nulo,0
+221,78865,Rodrigo Dourado,0.0,"{'CA': 1, 'FC': 2, 'FS': 1, 'PE': 2, 'RB': 3}",mei,INT,Contundido,0
+222,80313,Gilberto ,9.4,"{'A': 2, 'CA': 1, 'FC': 21, 'FD': 5, 'FF': 7, 'FS': 15, 'I': 1, 'PE': 52, 'RB': 21, 'SG': 5}",lat,FLU,Provável,0
+223,78851,Richard,0.0,"{'DD': 1, 'FS': 1, 'GS': 1, 'PE': 1}",gol,CEA,Nulo,0
+224,78840,Pedro Castro,0.0,"{'FC': 27, 'FD': 7, 'FF': 9, 'FS': 28, 'FT': 1, 'G': 1, 'I': 1, 'PE': 51, 'PP': 1, 'RB': 36}",mei,AVA,Contundido,1
+225,80363,Ariel Cabral,0.5,"{'CA': 2, 'FC': 10, 'FD': 1, 'FF': 4, 'FS': 6, 'PE': 19, 'RB': 12}",mei,CRU,Nulo,1
+226,80393,Fabinho,-1.7,"{'CA': 5, 'FC': 40, 'FD': 2, 'FF': 2, 'FS': 24, 'FT': 1, 'G': 1, 'I': 2, 'PE': 33, 'RB': 49}",mei,CEA,Provável,0
+227,80318,Ezequiel ,0.0,"{'CA': 3, 'FC': 13, 'FS': 2, 'I': 1, 'PE': 8, 'RB': 3, 'SG': 3}",lat,BAH,Nulo,0
+228,80394,Matheus Inácio,0.0,{},gol,FOR,Contundido,1
+229,80395,Renatinho,0.0,"{'CA': 1, 'FC': 4, 'FD': 4, 'FF': 4, 'FS': 7, 'I': 1, 'PE': 9, 'RB': 2}",mei,GOI,Contundido,1
+230,80583,Lucas Lima,0.2,"{'A': 2, 'CA': 2, 'CV': 1, 'FC': 14, 'FD': 2, 'FF': 1, 'FS': 9, 'PE': 12, 'RB': 7}",mei,PAL,Nulo,1
+231,79035,Luiz Felipe,0.0,"{'FS': 1, 'PE': 2, 'RB': 2, 'SG': 3}",zag,SAN,Nulo,1
+232,78991,Moisés Ribeiro,0.0,{},mei,CHA,Suspenso,0
+233,79109,Romero,0.0,{},mei,FOR,Nulo,1
+234,79113,Víctor Cuesta,10.7,"{'CA': 6, 'FC': 20, 'FD': 2, 'FF': 1, 'FS': 24, 'PE': 32, 'RB': 58, 'SG': 8}",zag,INT,Suspenso,0
+235,78897,Naldo,-0.3,"{'A': 2, 'CA': 4, 'FC': 36, 'FD': 4, 'FF': 7, 'FS': 13, 'I': 2, 'PE': 28, 'RB': 34}",mei,CSA,Provável,1
+236,80664,Michel,0.0,"{'CA': 1, 'CV': 1, 'FC': 7, 'FS': 6, 'PE': 10, 'RB': 5, 'SG': 2}",lat,COR,Suspenso,0
+237,80337,Arthur Caíke,4.8,"{'A': 1, 'CV': 1, 'FC': 14, 'FD': 6, 'FF': 16, 'FS': 10, 'FT': 1, 'G': 3, 'I': 2, 'PE': 23, 'RB': 6}",ata,BAH,Dúvida,0
+238,80853,Pedro Geromel,-0.3,"{'CA': 3, 'FC': 7, 'FD': 1, 'FF': 3, 'FS': 8, 'G': 2, 'PE': 14, 'RB': 30, 'SG': 4}",zag,GRE,Provável,1
+239,79336,Romário Rodrigues,0.0,"{'FC': 1, 'FF': 1, 'FS': 4, 'PE': 1}",ata,CEA,Nulo,0
+240,80692,Luan,4.2,"{'CA': 1, 'FC': 8, 'FD': 3, 'FF': 2, 'FS': 7, 'PE': 8, 'RB': 16, 'SG': 2}",zag,PAL,Nulo,1
+241,79437,Roger Machado ,2.99,{},tec,BAH,Provável,0
+242,80944,Marlone,0.0,"{'CA': 1, 'FC': 8, 'FF': 6, 'FS': 9, 'FT': 1, 'G': 1, 'I': 1, 'PE': 17, 'RB': 7}",mei,GOI,Contundido,1
+243,79578,Sassá,0.0,"{'CA': 1, 'FC': 13, 'FD': 7, 'FF': 8, 'FS': 15, 'FT': 1, 'G': 2, 'I': 3, 'PE': 6, 'RB': 2}",ata,CRU,Nulo,1
+244,81031,Marquinhos Santos,3.52,{},tec,CHA,Provável,0
+245,80949,Biro Biro,0.0,{},ata,BOT,Contundido,0
+246,81091,Jair,0.0,"{'CA': 2, 'FC': 16, 'FF': 1, 'FS': 14, 'G': 1, 'PE': 13, 'RB': 21}",mei,ATL,Contundido,0
+247,84854,Lucas Frigeri,0.0,"{'DD': 6, 'GS': 5, 'PE': 2}",gol,AVA,Nulo,1
+248,81150,Mayke,0.0,{'PE': 1},lat,PAL,Nulo,1
+249,81241,Oswaldo Henríquez,6.0,"{'CA': 4, 'FC': 10, 'FD': 2, 'FF': 1, 'FS': 4, 'FT': 1, 'PE': 21, 'RB': 16, 'SG': 6}",zag,VAS,Provável,1
+250,81677,Carlos Sánchez,0.0,"{'A': 4, 'CA': 3, 'FC': 27, 'FD': 15, 'FF': 13, 'FS': 44, 'FT': 2, 'G': 7, 'I': 4, 'PE': 74, 'PP': 1, 'RB': 26}",mei,SAN,Provável,1
+251,84861,Alex Silva,0.0,"{'CA': 1, 'FC': 2, 'FD': 1, 'FF': 1, 'FS': 3, 'PE': 1, 'RB': 1}",lat,AVA,Contundido,1
+252,84860,Abner Felipe,0.0,"{'A': 2, 'FC': 6, 'FS': 5, 'PE': 9, 'RB': 5, 'SG': 1}",lat,ATL,Nulo,0
+253,81770,Clayton,0.0,"{'CA': 1, 'FC': 7, 'FD': 5, 'FF': 3, 'PE': 5}",ata,VAS,Nulo,1
+254,81682,Cazares,-4.1,"{'CA': 1, 'CV': 1, 'FC': 16, 'FD': 18, 'FF': 16, 'FS': 6, 'FT': 1, 'G': 4, 'PE': 66, 'RB': 12}",mei,ATL,Suspenso,0
+255,84890,Euller ,0.0,"{'FC': 2, 'FD': 1, 'FF': 5, 'FS': 3, 'FT': 1, 'PE': 6, 'RB': 2}",lat,CSA,Nulo,1
+256,81845,Alisson,11.4,"{'A': 5, 'CA': 4, 'FC': 14, 'FD': 8, 'FF': 6, 'FS': 24, 'G': 3, 'PE': 22, 'RB': 15}",mei,GRE,Provável,1
+257,81798,Rossi,2.8,"{'A': 1, 'CA': 5, 'FC': 22, 'FD': 10, 'FF': 13, 'FS': 27, 'FT': 1, 'I': 2, 'PE': 46, 'PP': 1, 'RB': 13}",ata,VAS,Provável,1
+258,81776,Bruno Nazário,0.0,"{'CA': 1, 'FC': 5, 'FD': 5, 'FF': 3, 'FS': 10, 'FT': 1, 'PE': 11, 'RB': 2}",mei,ATL,Nulo,0
+259,81951,Igor Julião,0.0,"{'CA': 1, 'FC': 14, 'FD': 2, 'FF': 1, 'FS': 13, 'PE': 11, 'RB': 14, 'SG': 3}",lat,FLU,Nulo,0
+260,85423,Valdívia,0.0,"{'A': 1, 'FC': 10, 'FD': 3, 'FF': 5, 'FS': 10, 'PE': 14, 'RB': 5}",mei,VAS,Nulo,1
+261,85425,João Paulo,0.0,{},gol,SAN,Nulo,1
+262,85004,Marcos Felipe ,0.0,{},gol,FLU,Nulo,0
+263,81905,Henrique Dourado,2.0,"{'FD': 1, 'FF': 1}",ata,PAL,Nulo,1
+264,85418,Uilson,0.0,{},gol,ATL,Contundido,0
+265,99460,Caio,0.0,"{'DD': 3, 'GS': 4, 'PE': 4, 'SG': 1}",gol,ATL,Nulo,0
+266,85300,Berrío ,0.0,"{'A': 2, 'CA': 1, 'CV': 1, 'FC': 15, 'FD': 1, 'FF': 6, 'FS': 4, 'G': 1, 'PE': 16, 'RB': 8}",ata,FLA,Contundido,0
+267,91191,Gustavo Blanco,0.0,{},mei,ATL,Contundido,0
+268,81881,João Ricardo,7.0,"{'DD': 5, 'GS': 3, 'PE': 1}",gol,CHA,Provável,0
+269,99462,Wesley,-0.5,"{'CA': 1, 'FC': 2, 'FF': 1, 'FS': 1, 'PE': 1, 'RB': 1}",mei,AVA,Provável,1
+270,82411,Cueva,0.0,"{'CA': 1, 'FC': 4, 'FS': 4, 'PE': 12, 'RB': 5}",mei,SAN,Nulo,1
+271,82474,Gegê,0.0,"{'FC': 10, 'FD': 4, 'FF': 5, 'FS': 5, 'FT': 1, 'G': 1, 'PE': 11, 'RB': 11}",mei,AVA,Nulo,1
+272,99474,Wenderson,0.0,"{'FS': 4, 'PE': 2, 'RB': 1}",mei,BOT,Nulo,0
+273,82455,Zé Rafael,0.4,"{'A': 1, 'CA': 3, 'FC': 27, 'FD': 6, 'FF': 7, 'FS': 30, 'I': 2, 'PE': 16, 'RB': 15}",mei,PAL,Provável,1
+274,82634,Matheus Galdezani,0.0,{},mei,INT,Contundido,0
+275,82453,Tadeu,11.0,"{'DD': 51, 'DP': 2, 'FS': 6, 'GS': 28, 'PE': 14, 'SG': 9}",gol,GOI,Provável,1
+276,84893,Henrique,4.4,"{'CA': 5, 'FC': 16, 'FD': 1, 'FF': 2, 'FS': 20, 'PE': 15, 'RB': 13, 'SG': 4}",lat,VAS,Dúvida,1
+277,82628,Tinga,0.0,"{'A': 2, 'FC': 6, 'FF': 4, 'FS': 6, 'G': 1, 'PE': 56, 'RB': 14, 'SG': 3}",lat,FOR,Provável,1
+278,99721,Mascarenhas,0.0,"{'CA': 1, 'PE': 1}",lat,FLU,Contundido,0
+279,82635,Igor Fernandes,4.4,"{'CA': 3, 'FC': 22, 'FD': 3, 'FF': 5, 'FS': 16, 'I': 3, 'PE': 42, 'RB': 30, 'SG': 7}",lat,AVA,Provável,1
+280,99789,Brenner,0.0,"{'FC': 2, 'FD': 2, 'FF': 4, 'FS': 4, 'FT': 1, 'PE': 6, 'RB': 4}",ata,FLU,Nulo,0
+281,82613,Alan Costa,0.0,"{'CA': 3, 'FC': 14, 'FD': 1, 'FF': 4, 'FS': 3, 'I': 1, 'PE': 21, 'RB': 14, 'SG': 5}",zag,CSA,Nulo,1
+282,99550,Fernando,0.1,"{'A': 1, 'CA': 5, 'FC': 29, 'FD': 2, 'FF': 1, 'FS': 11, 'FT': 1, 'PE': 32, 'RB': 20, 'SG': 6}",lat,BOT,Dúvida,0
+283,99661,Igor Cássio,0.7,"{'CA': 1, 'FC': 2, 'PE': 1, 'RB': 2}",ata,BOT,Nulo,0
+284,82639,Marcelo Hermes,7.0,"{'A': 1, 'CA': 3, 'FC': 9, 'FD': 1, 'FF': 3, 'FS': 8, 'PE': 17, 'RB': 11, 'SG': 3}",lat,GOI,Nulo,1
+285,82647,Régis,0.0,"{'FD': 1, 'FF': 1, 'FS': 2, 'PE': 1, 'RB': 2}",mei,COR,Nulo,0
+286,99802,Richard Franco,2.1,"{'FC': 28, 'FD': 4, 'FF': 14, 'FS': 18, 'G': 1, 'I': 1, 'PE': 37, 'RB': 30}",mei,AVA,Provável,1
+287,82730,Marcelo Rangel,0.0,"{'DD': 6, 'FS': 1, 'GS': 3}",gol,GOI,Nulo,1
+288,82767,Vinícius Araújo,1.0,"{'FC': 2, 'FD': 2, 'FS': 1, 'I': 3, 'PE': 4, 'RB': 1}",ata,AVA,Provável,1
+289,82653,Victor Rangel,0.0,"{'CA': 2, 'FC': 13, 'FD': 1, 'FF': 2, 'FS': 17, 'I': 1, 'PE': 10, 'RB': 2}",ata,BOT,Nulo,0
+290,99881,Ricardo,0.0,"{'CA': 2, 'FC': 10, 'FD': 1, 'FF': 4, 'FS': 8, 'G': 1, 'PE': 22, 'RB': 20, 'SG': 2}",zag,VAS,Nulo,1
+291,99900,Luan Pereira,0.0,"{'A': 1, 'CA': 4, 'FC': 7, 'FD': 1, 'FF': 2, 'FS': 10, 'PE': 12, 'RB': 8}",mei,AVA,Nulo,1
+292,99891,Chará,0.0,"{'A': 1, 'FC': 9, 'FD': 11, 'FF': 12, 'FS': 25, 'FT': 1, 'G': 3, 'I': 4, 'PE': 49, 'RB': 20}",ata,ATL,Contundido,0
+293,88225,Daniel Guedes ,0.0,"{'CA': 2, 'FC': 23, 'FD': 1, 'FF': 2, 'FS': 7, 'I': 2, 'PE': 35, 'RB': 22, 'SG': 4}",lat,GOI,Suspenso,1
+294,85465,Alex Santana,0.0,"{'CA': 2, 'FC': 11, 'FD': 6, 'FF': 13, 'FS': 21, 'FT': 1, 'G': 5, 'PE': 19, 'RB': 11}",mei,BOT,Contundido,0
+295,85626,Léo,0.0,"{'CA': 1, 'FC': 1, 'RB': 1}",lat,SAO,Nulo,0
+296,85931,Hyoran,0.0,"{'A': 1, 'FC': 6, 'FD': 3, 'FF': 5, 'FS': 5, 'FT': 1, 'PE': 6, 'RB': 5}",mei,PAL,Nulo,1
+297,82787,Joel,0.0,{},ata,CRU,Nulo,1
+298,99903,Lucas Campos,0.0,"{'CA': 1, 'FC': 7, 'FD': 1, 'FF': 3, 'FS': 8, 'PE': 6, 'RB': 8}",ata,BOT,Nulo,0
+299,82930,Cristovam,0.0,"{'CA': 2, 'FC': 7, 'FF': 1, 'FS': 6, 'PE': 11, 'RB': 8}",lat,CEA,Nulo,0
+300,82880,Daniel Amorim,0.0,"{'CA': 1, 'FC': 6, 'FD': 3, 'FF': 5, 'FS': 9, 'G': 1, 'I': 2, 'PE': 6}",ata,AVA,Contundido,1
+301,89815,Gustavo Ferrareis,0.0,"{'CA': 2, 'CV': 1, 'FC': 8, 'FD': 4, 'FF': 11, 'FS': 10, 'I': 1, 'PE': 20, 'RB': 5}",mei,AVA,Nulo,1
+302,82943,Matheus Ribeiro,0.0,{},lat,SAN,Nulo,1
+303,99918,Patrick,0.0,"{'FC': 1, 'FD': 3, 'FF': 1, 'FS': 11, 'G': 1, 'PE': 6, 'RB': 4}",mei,GRE,Nulo,1
+304,83004,Otero,0.0,"{'CA': 1, 'FC': 12, 'FD': 11, 'FF': 12, 'FS': 24, 'G': 1, 'PE': 13, 'RB': 2}",mei,ATL,Dúvida,0
+305,86116,Mosquera,-0.6,"{'CA': 2, 'FC': 8, 'FF': 3, 'FS': 13, 'PE': 12, 'RB': 8}",mei,AVA,Nulo,1
+306,99915,Ezequiel,0.0,"{'FC': 2, 'FD': 1, 'FF': 1, 'FS': 5, 'FT': 1, 'PE': 4, 'RB': 3}",ata,CRU,Nulo,1
+307,86120,Borja,0.0,"{'A': 1, 'CA': 1, 'FC': 5, 'FD': 3, 'FF': 1, 'FS': 6, 'I': 1, 'PE': 3, 'RB': 1}",ata,PAL,Nulo,1
+308,100002,Rickson,0.0,"{'FC': 1, 'FF': 1, 'FS': 6, 'PE': 3, 'RB': 2}",mei,BOT,Nulo,0
+309,83199,Lucão,0.0,{'PE': 1},ata,FLU,Nulo,0
+310,100065,Lincoln,0.0,"{'CA': 1, 'FC': 3, 'FD': 4, 'FF': 3, 'FS': 8, 'G': 1, 'I': 1, 'PE': 8, 'RB': 2}",ata,FLA,Contundido,0
+311,83257,Gabriel,0.0,"{'A': 3, 'CA': 6, 'FC': 14, 'FD': 18, 'FF': 22, 'FS': 16, 'G': 18, 'I': 11, 'PE': 35, 'RB': 5}",ata,FLA,Provável,0
+312,83263,Yuri,0.0,{},mei,BAH,Nulo,0
+313,100290,Lucas Venuto,0.0,"{'FC': 2, 'FF': 1, 'PE': 1}",ata,SAN,Nulo,1
+314,100084,Igor Gomes,1.3,"{'CA': 2, 'FC': 11, 'FD': 3, 'FF': 4, 'FS': 12, 'G': 1, 'PE': 14, 'RB': 4}",mei,SAO,Nulo,0
+315,100103,Pedrinho,0.0,"{'FC': 3, 'FD': 1, 'FF': 2, 'FS': 1, 'PE': 1}",ata,ATL,Nulo,0
+316,100289,Felipe Pires,0.0,"{'A': 1, 'FC': 3, 'FD': 2, 'FF': 5, 'FS': 12, 'G': 1, 'I': 1, 'PE': 11, 'RB': 2}",ata,FOR,Nulo,1
+317,100125,Thuler,2.5,"{'CA': 2, 'FC': 7, 'FS': 4, 'PE': 7, 'RB': 4, 'SG': 3}",zag,FLA,Nulo,0
+318,83438,Guilherme Parede,-0.2,"{'A': 1, 'CA': 2, 'FC': 18, 'FD': 7, 'FF': 9, 'FS': 28, 'G': 1, 'I': 13, 'PE': 16, 'RB': 6}",ata,INT,Provável,0
+319,83433,Patrick,0.7,"{'A': 1, 'CA': 2, 'FC': 21, 'FD': 2, 'FF': 5, 'FS': 24, 'G': 1, 'PE': 30, 'RB': 34}",mei,INT,Provável,0
+320,83528,Léo Pereira,-0.6,"{'CA': 5, 'FC': 22, 'FD': 3, 'FF': 5, 'FS': 10, 'G': 1, 'I': 2, 'PE': 45, 'RB': 15, 'SG': 5}",zag,ATL,Provável,0
+321,100430,Matheus Matias,0.0,"{'FC': 3, 'FF': 1, 'FS': 1}",ata,AVA,Nulo,1
+322,100652,Yuri Alberto,0.0,{},ata,SAN,Nulo,1
+323,100425,Bustamante,1.4,"{'A': 1, 'CA': 1, 'FC': 25, 'FD': 2, 'FF': 6, 'FS': 12, 'G': 1, 'I': 1, 'PE': 17, 'RB': 11}",ata,CSA,Provável,1
+324,100712,Filipe,0.0,{},gol,COR,Nulo,0
+325,88368,Gabriel Dias,-5.6,"{'CA': 4, 'CV': 1, 'FC': 25, 'FD': 4, 'FF': 4, 'FS': 27, 'I': 1, 'PE': 19, 'RB': 24}",mei,FOR,Suspenso,1
+326,83681,Rafinha,0.0,"{'FC': 2, 'FS': 3, 'PE': 3, 'RB': 4}",lat,CSA,Nulo,1
+327,100742,Matheus Henrique,0.0,"{'A': 1, 'CA': 4, 'FC': 19, 'FD': 2, 'FF': 1, 'FS': 14, 'PE': 28, 'RB': 16}",mei,GRE,Dúvida,1
+328,83772,Neilton,1.6,"{'FC': 7, 'FD': 2, 'FF': 7, 'FS': 19, 'G': 1, 'I': 2, 'PE': 20, 'RB': 7}",ata,INT,Nulo,0
+329,83817,Clayson,2.9,"{'A': 2, 'CA': 4, 'FC': 27, 'FD': 8, 'FF': 7, 'FS': 33, 'FT': 1, 'G': 3, 'I': 2, 'PE': 44, 'RB': 16}",ata,COR,Provável,0
+330,100761,Liziero,5.4,"{'CA': 2, 'FC': 10, 'FD': 1, 'FF': 3, 'FS': 9, 'PE': 22, 'RB': 16}",mei,SAO,Provável,0
+331,83869,Diego Tavares,0.0,{},lat,FOR,Nulo,1
+332,100763,Gabriel Sara,-0.5,"{'FD': 1, 'I': 1, 'PE': 2}",mei,SAO,Nulo,0
+333,84253,Jean Carlos,0.0,"{'CA': 1, 'FC': 1, 'PE': 1}",mei,GOI,Nulo,1
+334,84381,Rafinha,0.0,"{'FC': 3, 'FD': 1, 'FF': 2, 'FS': 3, 'FT': 1, 'PE': 3, 'RB': 1}",mei,GOI,Nulo,1
+335,84338,Max Walef,0.0,{},gol,FOR,Nulo,1
+336,84339,Bruno Melo,0.0,"{'CV': 1, 'FC': 7, 'FF': 1, 'FS': 9, 'G': 1, 'I': 1, 'PE': 9, 'RB': 3, 'SG': 2}",lat,FOR,Nulo,1
+337,100830,Brenno,0.0,{},gol,GRE,Nulo,1
+338,84509,Valdo,0.0,"{'A': 1, 'CA': 3, 'FC': 19, 'FD': 3, 'FF': 1, 'FS': 14, 'PE': 20, 'RB': 26, 'SG': 4}",zag,CEA,Dúvida,0
+339,84428,Fernando Sobral,0.0,"{'CA': 1, 'FC': 17, 'FD': 2, 'FF': 6, 'FS': 11, 'I': 1, 'PE': 23, 'RB': 22}",mei,CEA,Nulo,0
+340,84382,Danilo Barcelos,0.0,"{'A': 1, 'CA': 1, 'CV': 1, 'FC': 26, 'FD': 5, 'FF': 7, 'FS': 8, 'FT': 1, 'G': 2, 'I': 1, 'PE': 41, 'RB': 20, 'SG': 3}",lat,VAS,Dúvida,1
+341,84523,Romarinho,0.0,"{'A': 2, 'CA': 1, 'FC': 13, 'FD': 9, 'FF': 6, 'FS': 44, 'G': 1, 'I': 2, 'PE': 42, 'RB': 14}",ata,FOR,Nulo,1
+342,84709,Nico López,2.0,"{'A': 3, 'CA': 5, 'FC': 23, 'FD': 10, 'FF': 17, 'FS': 11, 'FT': 2, 'G': 1, 'I': 10, 'PE': 41, 'RB': 21}",ata,INT,Provável,0
+343,84554,Lucão,0.0,{},zag,GOI,Nulo,1
+344,84847,Luan Peres ,7.7,"{'CA': 1, 'FC': 5, 'FF': 1, 'FS': 2, 'PE': 5, 'RB': 3, 'SG': 2}",zag,SAN,Nulo,1
+345,100840,Emanuel,0.0,{},zag,GRE,Nulo,1
+346,89101,Bruno Sávio,0.0,"{'FC': 2, 'FD': 1, 'FF': 2, 'FS': 1, 'PE': 6, 'RB': 4}",ata,AVA,Nulo,1
+347,100842,Ruan,0.0,{},zag,GRE,Nulo,1
+348,88427,Marlon,-0.8,"{'CA': 1, 'FC': 10, 'FS': 8, 'PE': 7, 'RB': 5}",mei,FOR,Nulo,1
+349,88651,Vinícius Tanque,0.7,"{'FC': 8, 'FS': 5, 'I': 1, 'PE': 3}",ata,BOT,Nulo,0
+350,86143,Wanderson,0.0,"{'CA': 1, 'FC': 2, 'FS': 1}",zag,BAH,Nulo,0
+351,88669,Leandro Carvalho,0.0,"{'A': 1, 'CA': 3, 'FC': 14, 'FD': 10, 'FF': 13, 'FS': 27, 'G': 3, 'I': 2, 'PE': 38, 'RB': 17}",ata,CEA,Nulo,0
+352,86380,Luanderson ,0.0,"{'FC': 3, 'FF': 1, 'FS': 5, 'PE': 1, 'RB': 3}",mei,AVA,Nulo,1
+353,86264,Natanael,0.0,"{'CA': 2, 'FC': 8, 'FF': 1, 'FS': 4, 'GC': 1, 'PE': 15, 'RB': 9, 'SG': 2}",lat,INT,Contundido,0
+354,89150,Jean,0.0,"{'FF': 2, 'PE': 1, 'RB': 1}",mei,BOT,Nulo,0
+355,100843,Felipe,0.0,{},lat,GRE,Nulo,1
+356,89226,Iago Maidana,0.0,"{'CA': 2, 'FC': 5, 'FF': 2, 'FS': 2, 'FT': 1, 'G': 1, 'PE': 9, 'RB': 6}",zag,ATL,Nulo,0
+357,100846,Esteves,0.0,{},lat,PAL,Nulo,1
+358,89492,Saulo,0.0,{},gol,BOT,Nulo,0
+359,89256,Gerson,0.1,"{'A': 1, 'CA': 1, 'FC': 35, 'FD': 3, 'FF': 4, 'FS': 51, 'FT': 2, 'G': 1, 'PE': 40, 'RB': 28}",mei,FLA,Provável,0
+360,89273,João Pedro ,-0.4,"{'CA': 1, 'FC': 4, 'FD': 1, 'PE': 3, 'RB': 2, 'SG': 1}",lat,BAH,Provável,0
+361,89342,Caju,0.0,{},lat,SAN,Nulo,1
+362,100963,Felippe Cardoso,0.0,"{'A': 1, 'CA': 2, 'FC': 39, 'FD': 9, 'FF': 9, 'FS': 17, 'FT': 1, 'G': 2, 'I': 10, 'PE': 11, 'RB': 7}",ata,CEA,Nulo,0
+363,100987,Nonato,0.0,"{'A': 1, 'CA': 3, 'FC': 43, 'FD': 4, 'FF': 6, 'FS': 16, 'G': 3, 'I': 1, 'PE': 27, 'RB': 43}",mei,INT,Nulo,0
+364,89493,Igor Rabello,1.2,"{'CV': 1, 'FC': 19, 'FD': 1, 'FF': 6, 'FS': 15, 'I': 1, 'PE': 27, 'RB': 30, 'SG': 3}",zag,ATL,Provável,0
+365,90061,Bruno Pacheco,2.8,"{'A': 2, 'CA': 2, 'CV': 1, 'FC': 37, 'FF': 3, 'FS': 50, 'PE': 58, 'RB': 45, 'SG': 4}",lat,CHA,Provável,0
+366,101040,Rony,0.0,{},zag,SAO,Nulo,0
+367,89883,Dodi,0.0,"{'CA': 1, 'FS': 1, 'PE': 1, 'RB': 2}",mei,FLU,Nulo,0
+368,90118,Yago Rocha,6.5,"{'CA': 1, 'CV': 1, 'FC': 10, 'FS': 8, 'PE': 16, 'RB': 8, 'SG': 4}",lat,GOI,Provável,1
+369,90309,David,2.2,"{'A': 2, 'CA': 2, 'FC': 34, 'FD': 12, 'FF': 15, 'FS': 19, 'FT': 1, 'I': 9, 'PE': 32, 'RB': 11}",ata,CRU,Provável,1
+370,101290,Ferreira,0.0,"{'A': 1, 'FC': 1, 'FF': 1, 'FS': 4, 'PE': 1, 'RB': 1}",ata,GRE,Nulo,1
+371,90285,Bruno Henrique,14.7,"{'A': 2, 'CA': 6, 'FC': 38, 'FD': 21, 'FF': 27, 'FS': 46, 'FT': 3, 'G': 11, 'I': 8, 'PE': 35, 'RB': 16}",ata,FLA,Suspenso,0
+372,101315,Sarrafiore,0.0,"{'CA': 3, 'FC': 12, 'FD': 2, 'FF': 7, 'FS': 7, 'G': 2, 'PE': 20, 'RB': 8}",mei,INT,Nulo,0
+373,90302,Pedro Rocha,0.2,"{'A': 2, 'CA': 2, 'FC': 15, 'FD': 10, 'FF': 7, 'FS': 25, 'G': 2, 'I': 3, 'PE': 46, 'RB': 14}",ata,CRU,Nulo,1
+374,90572,Léo Sena,0.0,"{'A': 1, 'CA': 5, 'CV': 1, 'FC': 19, 'FD': 1, 'FF': 6, 'FS': 79, 'PE': 50, 'RB': 53}",mei,GOI,Provável,1
+375,90444,Moisés,0.0,"{'A': 2, 'CA': 4, 'CV': 1, 'FC': 38, 'FD': 4, 'FF': 10, 'FS': 10, 'I': 1, 'PE': 35, 'RB': 52, 'SG': 10}",lat,BAH,Contundido,0
+376,90569,Yuri Lima,0.0,"{'CA': 6, 'FC': 24, 'FD': 1, 'FF': 2, 'FS': 7, 'PE': 20, 'RB': 21}",mei,FLU,Nulo,0
+377,101316,Gustavo,0.0,{},zag,AVA,Nulo,1
+378,84462,Bruno Alves,-2.4,"{'CA': 2, 'FC': 7, 'FD': 1, 'FF': 2, 'FS': 1, 'PE': 4}",ata,CSA,Dúvida,1
+379,90715,Luiz Fernando ,1.0,"{'CA': 3, 'FC': 22, 'FD': 4, 'FF': 11, 'FS': 31, 'FT': 1, 'G': 1, 'I': 4, 'PE': 28, 'RB': 10}",mei,BOT,Provável,0
+380,101317,Jô,0.0,{},ata,AVA,Nulo,1
+381,90843,Elias,0.0,{},gol,CHA,Nulo,0
+382,101421,Igor Campos,0.0,{},gol,CHA,Nulo,0
+383,101422,Bruno Silva,0.0,{'PE': 1},ata,ATL,Nulo,0
+384,90768,Fabrício Bruno,2.0,"{'CA': 2, 'FC': 3, 'FF': 1, 'FS': 7, 'PE': 15, 'RB': 9, 'SG': 5}",zag,CRU,Provável,1
+385,101319,Guga,0.0,"{'A': 4, 'FC': 9, 'FF': 3, 'FS': 7, 'I': 2, 'PE': 41, 'RB': 25}",lat,ATL,Dúvida,0
+386,90846,Klaus,0.0,"{'CA': 1, 'FC': 9, 'FD': 1, 'FS': 3, 'PE': 21, 'RB': 5, 'SG': 3}",zag,INT,Dúvida,0
+387,90933,Jean,0.0,{'CA': 1},gol,SAO,Nulo,0
+388,101483,Isaque,0.0,{},ata,GRE,Nulo,1
+389,90917,Carlos Eduardo,0.0,"{'CA': 2, 'FC': 2, 'FF': 1, 'FS': 6, 'I': 1, 'PE': 2, 'RB': 1}",ata,PAL,Nulo,1
+390,101573,Pepê,0.0,{},mei,FLA,Nulo,0
+391,101574,Hugo Souza,0.0,{},gol,FLA,Nulo,0
+392,101375,Matheus Prado,0.0,{},mei,CSA,Nulo,1
+393,101512,Joelson,0.0,{},mei,CSA,Nulo,1
+394,90943,Zé Marcos,0.0,"{'FC': 2, 'PE': 2, 'RB': 1}",zag,AVA,Nulo,1
+395,101484,Thonny Anderson,5.4,"{'A': 4, 'CA': 3, 'FC': 20, 'FD': 12, 'FF': 6, 'FS': 13, 'FT': 2, 'G': 2, 'I': 3, 'PE': 23, 'RB': 12}",mei,ATL,Dúvida,0
+396,91102,Flávio,11.1,"{'CA': 2, 'FC': 28, 'FD': 1, 'FF': 5, 'FS': 13, 'I': 1, 'PE': 20, 'RB': 33}",mei,BAH,Provável,0
+397,101580,Lucas Lourenço,0.0,{},mei,SAN,Nulo,1
+398,101579,Robson Bambu,0.0,"{'FC': 7, 'FD': 1, 'FF': 2, 'FS': 1, 'PE': 6, 'RB': 3, 'SG': 2}",zag,ATL,Contundido,0
+399,91130,Fernandinho,0.0,{},ata,BAH,Nulo,0
+400,101491,Ricardo,0.2,"{'CA': 3, 'FC': 15, 'FD': 1, 'FF': 2, 'FS': 3, 'I': 3, 'PE': 35, 'RB': 12, 'SG': 7}",zag,AVA,Provável,1
+401,101594,Hugo Moura,0.0,"{'A': 1, 'CA': 1, 'FC': 1, 'PE': 3, 'RB': 2}",mei,FLA,Nulo,0
+402,91151,Everaldo ,0.0,"{'A': 1, 'CA': 2, 'FC': 15, 'FD': 2, 'FF': 8, 'FS': 15, 'G': 1, 'I': 3, 'PE': 7, 'RB': 8}",ata,COR,Contundido,0
+403,91242,Leandro Barcia,1.7,"{'A': 1, 'CA': 5, 'FC': 35, 'FD': 9, 'FF': 16, 'FS': 25, 'FT': 1, 'G': 4, 'I': 3, 'PE': 31, 'RB': 20}",ata,GOI,Provável,1
+404,101597,Ramon,0.0,{},lat,FLA,Nulo,0
+405,101592,Matheus Dantas,0.0,"{'FS': 1, 'I': 1, 'PE': 2}",zag,FLA,Nulo,0
+406,99459,Jean,0.0,{},mei,AVA,Nulo,1
+407,86519,Everton Felipe,0.4,"{'CA': 1, 'FC': 3, 'FD': 1, 'FF': 3, 'FS': 10, 'PE': 12, 'RB': 3}",mei,ATL,Nulo,0
+408,86444,Pablo Dyego,0.0,"{'FC': 2, 'FS': 1, 'PE': 1, 'RB': 2}",ata,FLU,Contundido,0
+409,86410,Victor Luis,0.0,"{'FC': 5, 'FF': 1, 'PE': 3, 'RB': 2}",lat,PAL,Nulo,1
+410,91201,Pepê,15.4,"{'A': 1, 'CA': 1, 'FC': 10, 'FD': 6, 'FF': 12, 'FS': 14, 'G': 5, 'I': 7, 'PE': 29, 'RB': 10}",ata,GRE,Dúvida,1
+411,101596,Vitor Gabriel,0.0,{},ata,FLA,Nulo,0
+412,101601,Caio,0.0,"{'CA': 1, 'FC': 2, 'FF': 1, 'PE': 1}",mei,FLU,Nulo,0
+413,86711,Richard,1.4,"{'CA': 4, 'FC': 21, 'FD': 2, 'FF': 4, 'FS': 21, 'PE': 24, 'RB': 28}",mei,VAS,Provável,1
+414,86686,Tchê Tchê,3.1,"{'CA': 5, 'FC': 29, 'FD': 8, 'FF': 12, 'FS': 31, 'G': 1, 'I': 1, 'PE': 51, 'RB': 28}",mei,SAO,Provável,0
+415,91251,Rodriguez,0.0,"{'A': 1, 'FC': 2, 'FF': 1, 'FS': 1, 'I': 2, 'PE': 11, 'RB': 14, 'SG': 3}",zag,GRE,Nulo,1
+416,86766,Matheus Rossetto,0.0,"{'CA': 2, 'FC': 11, 'FS': 3, 'PE': 15, 'RB': 9}",mei,ATL,Nulo,0
+417,86740,João Lucas,6.2,"{'CA': 1, 'FC': 10, 'FD': 5, 'FF': 4, 'FS': 8, 'G': 1, 'GC': 1, 'I': 4, 'PE': 44, 'RB': 24, 'SG': 4}",lat,CEA,Provável,0
+418,101606,Evanilson,0.0,{},ata,FLU,Nulo,0
+419,91733,Felipe,6.0,"{'A': 1, 'CA': 8, 'FC': 42, 'FD': 2, 'FF': 3, 'FS': 19, 'PE': 70, 'RB': 61}",mei,FOR,Provável,1
+420,101708,Felipe Jonatan,0.0,"{'FC': 11, 'FD': 7, 'FF': 6, 'FS': 8, 'G': 2, 'I': 1, 'PE': 28, 'RB': 8, 'SG': 6}",lat,SAN,Nulo,1
+421,86770,João Paulo,-2.3,"{'CA': 5, 'FC': 34, 'FD': 6, 'FF': 10, 'FS': 30, 'G': 2, 'PE': 56, 'RB': 32}",mei,AVA,Nulo,1
+422,86749,Felipe Ferreira,1.9,"{'FC': 1, 'FD': 1, 'FF': 1, 'FS': 2, 'PE': 2}",mei,VAS,Nulo,1
+423,86797,Raniel,0.0,"{'A': 1, 'CA': 2, 'CV': 1, 'FC': 11, 'FD': 6, 'FF': 8, 'FS': 13, 'FT': 1, 'G': 1, 'GC': 1, 'I': 3, 'PE': 12, 'RB': 5}",ata,SAO,Nulo,0
+424,101622,Lucas Barcelos,0.0,{},ata,FLU,Nulo,0
+425,86776,Jordi,-2.0,"{'CA': 4, 'DD': 57, 'DP': 2, 'FC': 3, 'FS': 3, 'GS': 33, 'PE': 15, 'SG': 8}",gol,CSA,Dúvida,1
+426,86759,Luan,9.8,"{'A': 6, 'FC': 11, 'FD': 8, 'FF': 14, 'FS': 34, 'FT': 1, 'G': 4, 'I': 3, 'PE': 53, 'RB': 16}",ata,GRE,Provável,1
+427,86757,Everton,0.0,"{'A': 4, 'CA': 3, 'FC': 11, 'FD': 8, 'FF': 15, 'FS': 12, 'FT': 1, 'G': 8, 'PE': 30, 'RB': 24}",ata,GRE,Dúvida,1
+428,101647,Ulisses,0.0,{},zag,VAS,Nulo,1
+429,101626,Xandão,0.0,{},zag,BAH,Nulo,0
+430,86842,Ewandro,0.0,"{'CA': 1, 'FC': 1}",ata,FLU,Nulo,0
+431,86859,José Welison,0.0,"{'CA': 2, 'FC': 9, 'FF': 5, 'FS': 5, 'PE': 14, 'RB': 16}",mei,ATL,Provável,0
+432,101679,Ricardo Verza,0.0,{},ata,GOI,Nulo,1
+433,86973,Leonardo,0.0,"{'CA': 2, 'FC': 9, 'FD': 4, 'FF': 3, 'FS': 1, 'PE': 18, 'RB': 7, 'SG': 4}",lat,GRE,Contundido,1
+434,91260,Lucas Perri,0.0,{},gol,SAO,Nulo,0
+435,86972,Emerson Santos,0.0,"{'CA': 3, 'FC': 13, 'FD': 2, 'FS': 3, 'G': 1, 'I': 1, 'PE': 22, 'RB': 13, 'SG': 4}",zag,INT,Nulo,0
+436,86890,Willian Popp,-1.8,"{'FC': 2, 'I': 1, 'PE': 1}",ata,CEA,Provável,0
+437,86932,Gustavo,-2.5,"{'CA': 1, 'FC': 14, 'FD': 4, 'FF': 5, 'FS': 10, 'G': 1, 'I': 2, 'PE': 2, 'RB': 2}",ata,COR,Nulo,0
+438,101715,Alerrandro,1.2,"{'A': 1, 'FC': 5, 'FD': 6, 'FF': 9, 'FS': 9, 'FT': 2, 'G': 2, 'I': 3, 'PE': 8, 'RB': 8}",ata,ATL,Nulo,0
+439,93787,Andrey,5.9,"{'CA': 1, 'FC': 13, 'FD': 3, 'FF': 5, 'FS': 9, 'FT': 1, 'G': 1, 'PE': 21, 'RB': 20}",mei,VAS,Dúvida,1
+440,91508,Leonardo Valencia,0.4,"{'A': 1, 'CA': 2, 'FC': 4, 'FD': 2, 'FF': 6, 'FS': 4, 'G': 1, 'I': 1, 'PE': 17, 'RB': 3}",mei,BOT,Provável,0
+441,101716,Bruninho,0.0,"{'FC': 5, 'FD': 5, 'FF': 4, 'FS': 6, 'G': 1, 'PE': 6, 'RB': 4}",mei,ATL,Provável,0
+442,91573,Arboleda,6.8,"{'A': 1, 'CA': 5, 'FC': 19, 'FD': 4, 'FF': 5, 'FS': 11, 'I': 1, 'PE': 31, 'RB': 15, 'SG': 5}",zag,SAO,Provável,0
+443,91607,Rony,2.7,"{'A': 3, 'CA': 5, 'FC': 39, 'FD': 14, 'FF': 27, 'FS': 40, 'FT': 1, 'G': 4, 'I': 8, 'PE': 36, 'RB': 18}",ata,ATL,Provável,0
+444,87192,Zeca,5.9,"{'CA': 3, 'FC': 12, 'FD': 1, 'FS': 5, 'PE': 31, 'RB': 35, 'SG': 6}",lat,INT,Provável,0
+445,91708,Nino,9.0,"{'A': 1, 'CA': 6, 'FC': 23, 'FD': 2, 'FF': 5, 'FS': 13, 'G': 1, 'PE': 20, 'RB': 31, 'SG': 5}",zag,FLU,Provável,0
+446,87009,Nathan,0.7,"{'CA': 2, 'FC': 17, 'FD': 4, 'FF': 5, 'FS': 5, 'G': 4, 'PE': 20, 'RB': 13}",mei,ATL,Suspenso,0
+447,91712,Matheus Alves,0.0,{},gol,GOI,Nulo,1
+448,101717,Marrony,1.2,"{'A': 1, 'CA': 3, 'CV': 1, 'FC': 33, 'FD': 9, 'FF': 17, 'FS': 32, 'G': 1, 'I': 5, 'PE': 31, 'RB': 26}",ata,VAS,Provável,1
+449,87342,Kannemann,0.0,"{'CA': 4, 'FC': 17, 'FS': 11, 'G': 1, 'PE': 9, 'RB': 18, 'SG': 3}",zag,GRE,Dúvida,1
+450,87225,Pedro Henrique,0.0,"{'FC': 2, 'FD': 2, 'FF': 3, 'FS': 12, 'PE': 16, 'RB': 15, 'SG': 6}",zag,ATL,Contundido,0
+451,87393,Gabriel,-0.4,"{'CA': 3, 'FC': 9, 'FD': 1, 'FF': 3, 'FS': 20, 'G': 1, 'I': 1, 'PE': 34, 'RB': 31, 'SG': 7}",zag,BOT,Provável,0
+452,87437,Caíque Sá,0.0,"{'CA': 1, 'FC': 4, 'FS': 1, 'PE': 5, 'RB': 3}",lat,CHA,Nulo,0
+453,87552,Vitor Bueno,7.3,"{'FC': 7, 'FD': 2, 'FF': 6, 'FS': 15, 'FT': 2, 'G': 1, 'PE': 18, 'RB': 15}",mei,SAO,Dúvida,0
+454,87470,Thaciano,2.2,"{'A': 1, 'CA': 4, 'FC': 19, 'FD': 8, 'FF': 4, 'FS': 15, 'G': 1, 'I': 3, 'PE': 16, 'RB': 23}",mei,GRE,Nulo,1
+455,87258,Soteldo,0.0,"{'A': 2, 'CA': 9, 'FC': 13, 'FD': 12, 'FF': 14, 'FS': 30, 'FT': 1, 'G': 4, 'I': 10, 'PE': 50, 'RB': 18}",mei,SAN,Provável,1
+456,87747,Yago Felipe,6.2,"{'A': 1, 'CA': 5, 'FC': 26, 'FD': 2, 'FF': 3, 'FS': 28, 'FT': 2, 'G': 1, 'I': 1, 'PE': 27, 'RB': 36}",mei,GOI,Provável,1
+457,87679,Tréllez,0.0,"{'FC': 5, 'FD': 3, 'FF': 6, 'FS': 4, 'I': 5, 'PE': 2, 'RB': 1}",ata,INT,Nulo,0
+458,91808,Caíque França,0.0,{},gol,COR,Nulo,0
+459,91772,David Duarte,0.0,"{'FC': 2, 'FF': 3, 'FS': 3, 'PE': 10, 'RB': 7, 'SG': 2}",zag,GOI,Contundido,1
+460,87863,Arrascaeta,0.0,"{'A': 8, 'CA': 1, 'FC': 14, 'FD': 5, 'FF': 12, 'FS': 30, 'G': 10, 'PE': 54, 'RB': 26}",mei,FLA,Contundido,0
+461,87877,Sornoza,0.0,"{'A': 1, 'CA': 3, 'FC': 15, 'FD': 6, 'FF': 10, 'FS': 16, 'FT': 1, 'I': 1, 'PE': 16, 'RB': 14}",mei,COR,Nulo,0
+462,94067,Matheus Fernandes,2.7,"{'FC': 1, 'FD': 1, 'FS': 3, 'PE': 4, 'RB': 5}",mei,PAL,Nulo,1
+463,91888,Kevin ,0.0,"{'CA': 1, 'FC': 1, 'FF': 1, 'FS': 2, 'PE': 13, 'RB': 5, 'SG': 1}",lat,GOI,Nulo,1
+464,91972,João Paulo,0.0,{},ata,CEA,Contundido,0
+465,87929,Matheus Vargas,0.0,"{'FC': 3, 'FS': 4, 'PE': 1, 'RB': 2}",mei,FOR,Nulo,1
+466,87999,Gustavo Scarpa,10.5,"{'A': 3, 'CA': 1, 'FC': 12, 'FD': 14, 'FF': 14, 'FS': 11, 'G': 2, 'PE': 42, 'RB': 10}",mei,PAL,Provável,1
+467,92085,Giovanny ,0.0,"{'FC': 2, 'PE': 2}",ata,GOI,Nulo,1
+468,88125,Yuri,2.5,"{'CA': 1, 'FC': 4, 'FD': 1, 'FF': 1, 'FS': 4, 'PE': 2, 'RB': 1}",mei,BOT,Dúvida,0
+469,92155,Ramón Martínez,0.0,"{'CA': 1, 'FC': 5, 'FF': 1, 'FS': 4, 'I': 1, 'PE': 6, 'RB': 11}",mei,ATL,Nulo,0
+470,92146,André Luís,3.0,"{'CA': 4, 'FC': 10, 'FD': 4, 'FF': 3, 'FS': 30, 'FT': 3, 'G': 2, 'I': 4, 'PE': 16, 'RB': 3}",ata,FOR,Provável,1
+471,88065,Jorge,11.8,"{'A': 4, 'CA': 3, 'FC': 25, 'FD': 10, 'FF': 11, 'FS': 32, 'G': 1, 'I': 2, 'PE': 37, 'RB': 38, 'SG': 11}",lat,SAN,Provável,1
+472,92496,Raul,0.0,"{'A': 2, 'CA': 5, 'FC': 35, 'FD': 7, 'FF': 8, 'FS': 47, 'PE': 36, 'RB': 50}",mei,VAS,Dúvida,1
+473,92696,Renato Kayzer,0.0,"{'FC': 10, 'FD': 1, 'FF': 2, 'FS': 8, 'G': 1, 'I': 2, 'PE': 5, 'RB': 4}",ata,CHA,Nulo,0
+474,101719,Rafael França,0.0,{},lat,VAS,Nulo,1
+475,101889,Igor Goularte,4.9,"{'FC': 1, 'FD': 1, 'FF': 1, 'FS': 3, 'I': 1, 'PE': 2, 'RB': 3}",mei,AVA,Provável,1
+476,92841,Fernando Medeiros,0.0,{},mei,BAH,Nulo,0
+477,101721,João Pedro Borges,0.0,{},gol,VAS,Nulo,1
+478,93108,Mateus Vital,5.0,"{'A': 2, 'CA': 1, 'FC': 5, 'FD': 7, 'FF': 13, 'FS': 40, 'G': 1, 'PE': 19, 'RB': 16}",mei,COR,Dúvida,0
+479,101720,Miranda,0.0,"{'FC': 2, 'FS': 1, 'PE': 1, 'RB': 1}",zag,VAS,Nulo,1
+480,92981,Ronaldo,3.7,"{'A': 1, 'CA': 2, 'FC': 17, 'FF': 3, 'FS': 10, 'PE': 21, 'RB': 29}",mei,BAH,Provável,0
+481,88224,Paulo Ricardo,0.0,{'PE': 1},zag,GOI,Nulo,1
+482,92182,Juninho,1.2,"{'CA': 1, 'FC': 8, 'FD': 4, 'FF': 3, 'FS': 9, 'I': 1, 'PE': 27, 'RB': 11, 'SG': 9}",zag,BAH,Provável,0
+483,92708,Deyverson,1.7,"{'A': 2, 'CA': 2, 'FC': 13, 'FD': 7, 'FF': 11, 'FS': 28, 'G': 1, 'I': 14, 'PE': 20, 'RB': 8}",ata,PAL,Nulo,1
+484,94068,Ribamar,0.5,"{'FC': 11, 'FD': 5, 'FF': 10, 'FS': 3, 'FT': 1, 'G': 1, 'I': 7, 'PE': 6, 'RB': 2}",ata,VAS,Provável,1
+485,93368,Lucas Veríssimo,5.4,"{'CA': 5, 'CV': 2, 'FC': 46, 'FD': 3, 'FF': 9, 'FS': 13, 'FT': 2, 'G': 1, 'GC': 1, 'I': 1, 'PE': 55, 'RB': 44, 'SG': 10}",zag,SAN,Provável,1
+486,93151,Thiago Santos,0.0,{},ata,CHA,Contundido,0
+487,94138,Felipe Vizeu,0.0,"{'FC': 9, 'FF': 4, 'FS': 3, 'G': 1, 'PE': 7}",ata,GRE,Contundido,1
+488,93414,Joel Carli,-1.8,"{'CA': 7, 'FC': 15, 'FD': 1, 'FF': 2, 'FS': 13, 'FT': 1, 'I': 1, 'PE': 40, 'RB': 14, 'SG': 5}",zag,BOT,Provável,0
+489,93377,Jobson,0.0,{},mei,SAN,Nulo,1
+490,93659,Michael,0.0,{},gol,ATL,Contundido,0
+491,93785,Alan Cardoso,0.0,{},lat,SAN,Nulo,1
+492,95494,Aguilar,0.0,"{'CA': 3, 'FC': 21, 'FF': 2, 'FS': 9, 'PE': 15, 'RB': 23, 'SG': 7}",zag,SAN,Nulo,1
+493,101729,Fabinho,0.0,{'FC': 1},ata,SAO,Nulo,0
+494,101728,Diego,0.0,{},zag,SAO,Nulo,0
+495,101803,Carlos Augusto,0.0,"{'CA': 1, 'FC': 6, 'FF': 2, 'FS': 6, 'G': 1, 'PE': 13, 'RB': 6, 'SG': 2}",lat,COR,Nulo,0
+496,93791,Daniel,9.7,"{'A': 1, 'CA': 2, 'FC': 12, 'FD': 7, 'FF': 3, 'FS': 26, 'G': 1, 'PE': 50, 'RB': 14}",mei,FLU,Nulo,0
+497,101796,Gonzalo Carneiro,0.0,{},ata,SAO,Suspenso,0
+498,93782,Alisson Safira,-0.5,"{'A': 1, 'CA': 1, 'FC': 7, 'FS': 6, 'I': 1, 'PE': 3, 'RB': 1}",ata,CSA,Nulo,1
+499,93795,Matheus Cabral,0.0,{},gol,CEA,Nulo,0
+500,101846,Iury,0.0,"{'A': 1, 'CA': 1, 'FC': 14, 'FF': 3, 'FS': 10, 'PE': 30, 'RB': 10, 'SG': 4}",lat,AVA,Nulo,1
+501,101837,Lucas Paes,0.0,{},gol,SAO,Nulo,0
+502,93797,Marcinho,0.0,"{'A': 2, 'CA': 2, 'FC': 25, 'FD': 5, 'FF': 10, 'FS': 13, 'FT': 1, 'G': 1, 'I': 1, 'PE': 43, 'RB': 15, 'SG': 5}",lat,BOT,Dúvida,0
+503,101861,Felipe Sousa,0.0,{},ata,ATL,Nulo,0
+504,94297,William Oliveira,0.0,"{'CA': 3, 'FC': 10, 'FD': 2, 'FF': 2, 'FS': 5, 'PE': 4, 'RB': 7}",mei,CEA,Nulo,0
+505,94156,Diego Pituca,-1.4,"{'CA': 7, 'FC': 49, 'FD': 10, 'FF': 11, 'FS': 22, 'FT': 2, 'G': 1, 'PE': 60, 'RB': 26}",mei,SAN,Provável,1
+506,101885,Toró,0.0,"{'A': 1, 'CA': 1, 'CV': 1, 'FC': 19, 'FD': 3, 'FF': 10, 'FS': 20, 'G': 2, 'I': 3, 'PE': 28, 'RB': 11}",ata,SAO,Contundido,0
+507,101911,Gabriel Calabres,0.0,{},mei,CHA,Nulo,0
+508,93834,Keiller,0.0,{},gol,INT,Nulo,0
+509,94509,Raphael Veiga,0.0,"{'FC': 6, 'FD': 3, 'FF': 6, 'FS': 7, 'G': 1, 'PE': 8, 'RB': 6}",mei,PAL,Nulo,1
+510,94857,Jonatan Gomez,2.1,"{'A': 2, 'CA': 4, 'FC': 19, 'FD': 12, 'FF': 16, 'FS': 48, 'G': 4, 'I': 1, 'PE': 42, 'RB': 15}",mei,CSA,Provável,1
+511,94495,Alessandro Vinícius,0.0,{},mei,ATL,Nulo,0
+512,101960,Vitinho,0.0,"{'A': 2, 'FC': 15, 'FD': 6, 'FF': 7, 'FS': 5, 'G': 1, 'PE': 8, 'RB': 4}",ata,ATL,Nulo,0
+513,101997,Braian Romero,0.0,"{'A': 1, 'CA': 1, 'FC': 18, 'FD': 2, 'FF': 6, 'FS': 13, 'FT': 1, 'G': 2, 'I': 2, 'PE': 15, 'RB': 10}",ata,ATL,Nulo,0
+514,94542,Jarro Pedroso,-1.5,"{'CA': 1, 'FC': 2, 'FS': 3}",ata,CSA,Nulo,1
+515,102137,Vitor Eudes,0.0,{},gol,CRU,Nulo,1
+516,94931,Lucas Fernandes,0.0,{},mei,SAO,Nulo,0
+517,94968,Juninho Capixaba,0.0,"{'A': 1, 'CA': 7, 'FC': 26, 'FD': 2, 'FF': 2, 'FS': 30, 'I': 3, 'PE': 35, 'RB': 23, 'SG': 6}",lat,GRE,Nulo,1
+518,102340,Cacá,0.0,"{'CA': 3, 'FC': 5, 'FD': 1, 'FS': 7, 'PE': 2, 'RB': 7, 'SG': 2}",zag,CRU,Nulo,1
+519,102302,Papagaio,0.5,"{'FC': 6, 'FD': 1, 'FF': 2, 'FS': 3, 'PE': 3, 'RB': 3}",ata,GOI,Nulo,1
+520,102290,Gabriel,0.0,{},gol,ATL,Nulo,0
+521,102301,Bruno Leite,0.0,{},mei,ATL,Contundido,0
+522,102139,Jairinho,0.0,"{'FC': 1, 'FD': 2, 'FF': 1, 'FS': 4, 'PE': 2, 'RB': 2}",ata,VAS,Nulo,1
+523,102318,Caio Paulista,1.3,"{'FC': 21, 'FD': 5, 'FF': 19, 'FS': 25, 'I': 2, 'PE': 32, 'RB': 28}",ata,AVA,Provável,1
+524,102253,Lucas Halter,0.0,"{'CA': 1, 'FC': 5, 'FD': 2, 'FF': 3, 'FS': 2, 'PE': 8, 'RB': 7, 'SG': 1}",zag,ATL,Contundido,0
+525,94976,Zeca,0.0,{},ata,GOI,Nulo,1
+526,94975,Marco Antônio,0.0,{},mei,BAH,Nulo,0
+527,94981,Felipinho,0.0,{},mei,BAH,Nulo,0
+528,102380,Marcinho,0.0,{},mei,AVA,Nulo,1
+529,94982,Max,0.0,{},mei,BAH,Nulo,0
+530,102452,Vital,0.0,{},zag,CSA,Nulo,1
+531,102563,Kaio,0.0,"{'A': 1, 'FC': 6, 'FF': 1, 'FS': 2, 'PE': 4}",mei,GOI,Contundido,1
+532,95246,Matheus Lucas,0.0,"{'FC': 2, 'FF': 1, 'FS': 1, 'PE': 1, 'RB': 1}",ata,AVA,Nulo,1
+533,102565,Miguel Figueira,0.0,{'FS': 1},mei,GOI,Nulo,1
+534,95222,Thalles,2.0,"{'A': 1, 'CA': 1, 'FC': 3, 'FS': 1}",mei,GOI,Nulo,1
+535,95335,Matheus Jesus,3.2,"{'FC': 3, 'FS': 7, 'I': 1, 'PE': 5, 'RB': 8}",mei,COR,Provável,0
+536,95352,Orejuela,0.0,"{'CA': 2, 'FC': 24, 'FD': 2, 'FF': 2, 'FS': 12, 'I': 1, 'PE': 22, 'RB': 18, 'SG': 3}",lat,CRU,Nulo,1
+537,95220,Jefferson,4.1,"{'A': 1, 'CA': 3, 'FC': 17, 'FD': 1, 'FF': 6, 'FS': 26, 'G': 1, 'I': 1, 'PE': 50, 'RB': 42, 'SG': 8}",lat,GOI,Provável,1
+538,102581,Dudu,0.0,{},ata,GOI,Nulo,1
+539,95464,Gregore,-1.6,"{'CA': 4, 'CV': 1, 'FC': 77, 'FD': 2, 'FF': 8, 'FS': 18, 'PE': 66, 'RB': 65}",mei,BAH,Provável,0
+540,102771,Rodrigo Fernandes,0.0,{},mei,VAS,Nulo,1
+541,94980,Geovane Itinga,0.0,{},ata,BAH,Nulo,0
+542,95476,Kunde,0.0,"{'CA': 2, 'FC': 7, 'FS': 1, 'PE': 7, 'RB': 3, 'SG': 1}",zag,AVA,Nulo,1
+543,95466,Igor Vinícius,10.2,"{'A': 2, 'CA': 3, 'CV': 2, 'FC': 26, 'FD': 2, 'FF': 3, 'FS': 8, 'PE': 23, 'RB': 28, 'SG': 6}",lat,SAO,Provável,0
+544,102599,Thiaguinho,0.0,{},mei,COR,Nulo,0
+545,102598,Helinho,0.0,"{'CA': 1, 'FC': 6, 'FD': 1, 'FF': 1, 'FS': 6, 'I': 1, 'PE': 8, 'RB': 1}",ata,SAO,Nulo,0
+546,42500,Fagner,3.5,"{'A': 2, 'CA': 3, 'FC': 17, 'FD': 3, 'FF': 4, 'FS': 28, 'PE': 64, 'RB': 37, 'SG': 9}",lat,COR,Provável,0
+547,95542,Orinho,11.5,"{'FC': 5, 'FD': 1, 'FF': 2, 'FS': 3, 'PE': 1, 'RB': 5, 'SG': 2}",lat,FLU,Nulo,0
+548,104678,Tiago Reis,0.0,"{'A': 1, 'CA': 1, 'FC': 13, 'FD': 1, 'FF': 3, 'FS': 3, 'FT': 1, 'G': 1, 'I': 1, 'PE': 4, 'RB': 2}",ata,VAS,Nulo,1
+549,95638,Marcelo Benevenuto,0.0,"{'A': 1, 'CA': 3, 'FC': 7, 'FF': 1, 'FS': 9, 'FT': 1, 'G': 1, 'GC': 2, 'PE': 19, 'RB': 3, 'SG': 2}",zag,BOT,Nulo,0
+550,102609,Fernando Castro,0.0,{},gol,BAH,Nulo,0
+551,102686,Yago Darub,0.0,{},gol,FLA,Nulo,0
+552,93882,Cleiton,0.0,"{'CA': 1, 'DD': 12, 'DP': 1, 'FS': 2, 'GS': 13, 'PE': 8, 'SG': 2}",gol,ATL,Dúvida,0
+553,104824,Gerson Júnior,0.0,{},ata,CSA,Nulo,1
+554,104991,Igo,0.0,{},gol,CSA,Nulo,1
+555,102700,Hulk,2.5,"{'FC': 1, 'PE': 5, 'RB': 3}",lat,ATL,Nulo,0
+556,102719,Moresche,0.0,{},ata,VAS,Nulo,1
+557,93869,Lucas França,0.0,"{'DD': 2, 'GS': 1}",gol,CEA,Nulo,0
+558,93893,Marcos Júnior,0.2,"{'CA': 4, 'FC': 28, 'FD': 3, 'FF': 6, 'FS': 24, 'FT': 1, 'G': 1, 'PE': 45, 'RB': 22}",mei,VAS,Provável,1
+559,104994,Wagner Leonardo,0.0,{},zag,SAN,Nulo,1
+560,105049,Luis Henrique ,0.0,{},ata,BOT,Nulo,0
+561,94044,John Victor,0.0,{},gol,SAN,Nulo,1
+562,95660,Araruna,0.0,"{'CA': 1, 'FC': 1, 'FS': 1, 'PE': 7, 'RB': 5}",mei,FOR,Nulo,1
+563,105111,Bruninho,0.0,{},ata,SAN,Nulo,1
+564,97080,Yony González,3.7,"{'A': 2, 'CA': 1, 'FC': 26, 'FD': 16, 'FF': 31, 'FS': 36, 'FT': 2, 'G': 5, 'I': 5, 'PE': 20, 'RB': 18}",ata,FLU,Provável,0
+565,105068,Reinier,0.0,"{'A': 1, 'FC': 5, 'FD': 1, 'FF': 5, 'FS': 4, 'G': 2, 'PE': 10, 'RB': 1}",mei,FLA,Nulo,0
+566,102911,Zé Ricardo,0.0,{},mei,FLU,Nulo,0
+567,105175,Khellven ,0.0,"{'FC': 3, 'PE': 4, 'RB': 4}",lat,ATL,Provável,0
+568,97133,Dudu,0.0,{},lat,INT,Nulo,0
+569,95799,Artur,0.0,"{'A': 2, 'CA': 6, 'FC': 18, 'FD': 9, 'FF': 16, 'FS': 35, 'G': 4, 'I': 3, 'PE': 68, 'PP': 1, 'RB': 15}",ata,BAH,Nulo,0
+570,95798,Gustavo Bochecha,2.6,"{'A': 1, 'CA': 2, 'FC': 8, 'FD': 5, 'FF': 6, 'FS': 15, 'PE': 55, 'RB': 22}",mei,BOT,Provável,0
+571,105173,Talison,0.0,{},lat,FOR,Nulo,1
+572,105198,Raphael Lopes,0.0,{},ata,ATL,Nulo,0
+573,105176,Luiz Fernando,0.0,{},ata,ATL,Nulo,0
+574,95802,Piris da Motta,0.0,"{'CA': 2, 'FC': 13, 'FF': 2, 'FS': 15, 'PE': 11, 'RB': 10}",mei,FLA,Provável,0
+575,97245,Janderson,-0.5,"{'FC': 3, 'FD': 1, 'FF': 2, 'FS': 7, 'PE': 1, 'RB': 2}",ata,COR,Nulo,0
+576,95820,Léo Santos,0.0,{},zag,COR,Contundido,0
+577,105282,Diguinho,0.0,{},zag,FOR,Nulo,1
+578,105201,Vinícius Popó,0.0,"{'FC': 2, 'FS': 3, 'I': 1}",ata,CRU,Nulo,1
+579,105199,Vinícius,0.0,{'PE': 1},mei,FLA,Nulo,0
+580,105208,Bento,0.0,{},gol,ATL,Nulo,0
+581,105278,Iago Mendonça,0.0,{},zag,GOI,Nulo,1
+582,105339,Heron,0.0,{},zag,GOI,Nulo,1
+583,95875,Hugo Borges,0.0,{},ata,VAS,Nulo,1
+584,95860,Ruan,0.0,{},zag,CHA,Nulo,0
+585,105340,Flávio,0.0,{},mei,GOI,Nulo,1
+586,105341,Filipe Trindade,0.0,{},zag,GOI,Nulo,1
+587,96382,Quintero,0.0,"{'CA': 3, 'FC': 16, 'FD': 1, 'FF': 2, 'FS': 6, 'G': 1, 'PE': 38, 'RB': 15, 'SG': 5}",zag,FOR,Provável,1
+588,105395,Alan,0.0,{},zag,GOI,Nulo,1
+589,96340,Lima,0.0,"{'A': 1, 'CA': 2, 'FC': 8, 'FD': 10, 'FF': 7, 'FS': 20, 'I': 2, 'PE': 16, 'RB': 16}",mei,CEA,Nulo,0
+590,96454,Evando Camillato,2.05,{},tec,AVA,Provável,1
+591,105396,Rafael Barbosa,0.0,{},mei,GOI,Nulo,1
+592,97536,Bryan,4.3,"{'CA': 2, 'FC': 10, 'FD': 2, 'FF': 1, 'FS': 8, 'PE': 19, 'RB': 9, 'SG': 1}",lat,CHA,Provável,0
+593,105397,Felipe Mosquete,0.0,{},gol,GOI,Nulo,1
+594,96464,Maurício,0.0,{},zag,AVA,Nulo,1
+595,105553,Alexander,0.0,"{'DD': 8, 'GS': 6}",gol,VAS,Nulo,1
+596,97520,Shaylon,0.0,"{'FC': 4, 'FD': 1, 'FF': 1, 'FS': 2, 'PE': 7, 'RB': 2}",mei,BAH,Nulo,0
+597,105585,Roni,0.0,{},mei,COR,Nulo,0
+598,105566,Riquelme,0.0,{},lat,VAS,Nulo,1
+599,96468,Daniel,0.0,{},gol,INT,Nulo,0
+600,105584,Lucas Piton,0.0,{},lat,COR,Nulo,0
+601,105589,Lucas Bergantin,0.0,{},gol,PAL,Nulo,1
+602,105612,Miguel,0.0,"{'FS': 2, 'PE': 1}",mei,FLU,Nulo,0
+603,96966,Arthur Gomes,2.5,"{'CA': 2, 'FC': 18, 'FD': 2, 'FF': 9, 'FS': 39, 'FT': 1, 'G': 3, 'I': 2, 'PE': 26, 'RB': 15}",ata,CHA,Nulo,0
+604,96965,Léo Lopes,0.0,{},gol,AVA,Nulo,1
+605,105636,Gabriel Fornari,0.0,{},zag,ATL,Nulo,0
+606,105647,Mauricio,0.0,"{'FC': 3, 'FD': 1, 'FF': 2, 'FS': 4, 'G': 1, 'I': 1, 'PE': 10, 'RB': 3}",mei,CRU,Nulo,1
+607,96652,Allan,0.0,"{'A': 1, 'CA': 8, 'CV': 1, 'FC': 44, 'FD': 8, 'FF': 11, 'FS': 23, 'PE': 53, 'RB': 20}",mei,FLU,Provável,0
+608,105786,Talles Magno,2.6,"{'CA': 4, 'FC': 22, 'FD': 6, 'FF': 12, 'FS': 29, 'G': 2, 'I': 1, 'PE': 24, 'RB': 6}",ata,VAS,Nulo,1
+609,105635,Geovane,0.0,{},mei,ATL,Nulo,0
+610,97619,Tomás Andrade,0.0,"{'A': 1, 'FC': 10, 'FD': 3, 'FF': 5, 'FS': 4, 'PE': 19, 'RB': 2}",mei,ATL,Nulo,0
+611,105807,Luan,0.0,{},zag,FLU,Nulo,0
+612,105836,Da Silva,0.0,"{'FC': 1, 'FS': 2}",ata,GRE,Nulo,1
+613,97543,Fernando,0.0,{},gol,ATL,Nulo,0
+614,105837,Guilherme Azevedo,0.0,"{'CA': 1, 'FC': 1, 'FS': 1, 'RB': 1}",ata,GRE,Nulo,1
+615,97780,Dawhan,0.0,"{'CA': 3, 'FC': 20, 'FF': 6, 'FS': 9, 'PE': 23, 'RB': 28}",mei,CSA,Provável,1
+616,97902,Rafael,0.0,"{'CA': 1, 'FC': 1, 'FF': 1, 'FS': 1}",zag,FLA,Nulo,0
+617,97907,Rafael Santos,0.0,"{'CA': 1, 'FD': 1, 'PE': 3, 'SG': 1}",lat,CRU,Nulo,1
+618,105841,Iván Angulo,0.0,{},ata,PAL,Nulo,1
+619,105846,Welligton Rocha,0.0,{},zag,ATL,Nulo,0
+620,105838,Erik,0.0,"{'FS': 3, 'PE': 3, 'RB': 3}",lat,INT,Nulo,0
+621,105866,João Celeri,0.0,{},ata,COR,Nulo,0
+622,105868,Daniel Marcos,0.0,{},lat,COR,Nulo,0
+623,97995,Dalberto,0.0,{},ata,CHA,Contundido,0
+624,97315,Mantuan,0.0,{},mei,COR,Nulo,0
+625,105842,Edu,0.0,{},zag,CRU,Nulo,1
+626,105901,Edson,0.0,{},mei,BAH,Nulo,0
+627,98022,Erick,0.0,"{'CA': 1, 'FC': 15, 'FD': 4, 'FF': 1, 'FS': 3, 'G': 1, 'PE': 12, 'RB': 7}",mei,ATL,Nulo,0
+628,97993,Jhonata,0.0,{},mei,GRE,Nulo,1
+629,105897,Pablo Marí,6.7,"{'A': 1, 'CA': 2, 'FC': 16, 'FF': 4, 'FS': 4, 'FT': 1, 'G': 2, 'I': 1, 'PE': 18, 'RB': 21, 'SG': 7}",zag,FLA,Provável,0
+630,105900,Allanzinho,0.0,{},ata,SAN,Nulo,1
+631,97994,Fessin,0.0,{},mei,COR,Nulo,0
+632,105899,Ivonei,0.0,{},mei,SAN,Nulo,1
+633,97341,Rogério Ceni,0.49,{},tec,FOR,Provável,1
+634,97452,Marcos Calazans,0.0,"{'CA': 1, 'FC': 6, 'FD': 1, 'FS': 2, 'PE': 4, 'RB': 3}",ata,SAO,Nulo,0
+635,105902,José Gabriel,0.0,"{'FC': 3, 'FS': 1, 'PE': 3, 'RB': 1}",mei,INT,Nulo,0
+636,105903,José Aldo,0.0,"{'FF': 1, 'PE': 1, 'RB': 2}",mei,INT,Nulo,0
+637,97352,Pachu,0.0,{},ata,BOT,Nulo,0
+638,105909,Vinicius Mingotti,0.0,{},ata,ATL,Nulo,0
+639,105911,Rômulo,0.0,{},mei,CRU,Nulo,1
+640,105906,Adriano,0.0,{},mei,CRU,Nulo,1
+641,105907,Alisson Taddei,0.0,{},mei,GOI,Nulo,1
+642,105912,Marco Antônio,0.0,{},mei,CRU,Nulo,1
+643,105910,Jonathan,0.0,{},zag,CRU,Nulo,1
+644,97527,Matheus Alessandro,0.0,"{'FC': 2, 'FS': 2, 'RB': 2}",ata,FOR,Nulo,1
+645,105913,Welinton,0.0,"{'FS': 1, 'I': 1, 'RB': 1}",ata,CRU,Nulo,1
+646,97522,Lepu,0.0,{},mei,BAH,Nulo,0
+647,97535,Hiago,0.0,{'FC': 1},zag,CHA,Nulo,0
+648,105914,Cadu Silva,0.0,{},zag,SAN,Nulo,1
+649,106002,Johnny ,0.0,{},ata,INT,Nulo,0
+650,97528,Frazan,5.0,"{'CA': 1, 'CV': 2, 'FC': 7, 'FS': 1, 'PE': 4, 'RB': 3, 'SG': 5}",zag,FLU,Dúvida,0
+651,106000,Lucas Ramos,0.0,{},mei,INT,Nulo,0
+652,106017,João Pedro ,0.0,{},ata,VAS,Nulo,1
+653,106077,Vanderley,0.0,{},zag,GOI,Nulo,1
+654,106083,Breno,0.0,"{'CV': 1, 'FC': 2, 'FD': 1}",mei,GOI,Nulo,1
+655,98057,Tiago Nunes,1.05,{},tec,ATL,Provável,0
+656,98224,Jaderson,0.0,{},mei,ATL,Nulo,0
+657,98333,Gabriel Batista,0.0,{},gol,FLA,Nulo,0
+658,106159,Alexandre Melo,0.0,{},lat,VAS,Nulo,1
+659,106076,Daniel Oliveira,0.0,{},mei,GOI,Nulo,1
+660,98352,Bruno Guimarães,0.0,"{'A': 1, 'CA': 2, 'FC': 26, 'FD': 8, 'FF': 11, 'FS': 49, 'FT': 1, 'G': 2, 'PE': 59, 'RB': 20}",mei,ATL,Dúvida,0
+661,106200,Kaio Magno,0.0,{},ata,VAS,Nulo,1
+662,106160,Lucão,0.0,{},gol,VAS,Nulo,1
+663,98421,Kendy,0.0,{},mei,CHA,Nulo,0
+664,98400,Gabriel Lima,0.5,{'FS': 1},ata,AVA,Nulo,1
+665,106201,Lucas Figueiredo,0.0,{},ata,VAS,Nulo,1
+666,98412,Tiepo,0.0,"{'CA': 1, 'DD': 37, 'DP': 3, 'FS': 3, 'GS': 35, 'PE': 15, 'SG': 4}",gol,CHA,Nulo,0
+667,106161,Jonathan,0.0,"{'CA': 1, 'FC': 12, 'FF': 8, 'FS': 14, 'G': 3, 'I': 2, 'PE': 12, 'RB': 5}",ata,AVA,Nulo,1
+668,106202,Bruno Gomes,0.0,"{'CA': 1, 'FC': 2, 'FS': 3, 'PE': 1, 'RB': 2}",mei,VAS,Nulo,1
+669,106219,Kawan,0.0,{},mei,ATL,Nulo,0
+670,98484,Kanu,0.0,"{'FS': 1, 'PE': 3, 'RB': 2}",zag,BOT,Nulo,0
+671,106323,Caio Alexandre,0.0,{},mei,BOT,Nulo,0
+672,98419,Ronei,0.0,{},mei,CHA,Nulo,0
+673,38144,Rafinha,4.2,"{'A': 4, 'CA': 5, 'FC': 21, 'FD': 3, 'FF': 1, 'FS': 13, 'I': 1, 'PE': 25, 'RB': 17, 'SG': 7}",lat,FLA,Contundido,0
+674,106371,Jhonata Robert,0.0,{},ata,GRE,Nulo,1
+675,106312,Marx Lênin,0.0,{},mei,AVA,Nulo,1
+676,106475,Ricardo Colbachini,4.22,{},tec,INT,Provável,0
+677,38162,Fred,7.4,"{'A': 3, 'CA': 7, 'FC': 26, 'FD': 12, 'FF': 8, 'FS': 29, 'FT': 1, 'G': 4, 'I': 10, 'PE': 38, 'RB': 3}",ata,CRU,Provável,1
+678,103695,Jadsom Silva,0.0,"{'FC': 1, 'FF': 1, 'PE': 1}",mei,CRU,Nulo,1
+679,38196,Maicon,6.6,"{'A': 2, 'CA': 4, 'FC': 11, 'FD': 1, 'FF': 2, 'FS': 4, 'G': 2, 'PE': 26, 'RB': 9}",mei,GRE,Dúvida,1
+680,99430,Diego,0.0,{},gol,BOT,Nulo,0
+681,38229,Fábio Santos,0.0,"{'CA': 3, 'FC': 17, 'FD': 1, 'FF': 2, 'FS': 14, 'G': 2, 'I': 2, 'PE': 32, 'RB': 13, 'SG': 3}",lat,ATL,Provável,0
+682,38231,Diego Tardelli,0.0,"{'A': 1, 'CA': 1, 'FC': 14, 'FD': 12, 'FF': 5, 'FS': 14, 'G': 3, 'I': 5, 'PE': 34, 'PP': 1, 'RB': 9}",ata,GRE,Nulo,1
+683,38277,Thiago Neves,7.3,"{'A': 2, 'CA': 6, 'FC': 18, 'FD': 14, 'FF': 24, 'FS': 21, 'FT': 1, 'G': 5, 'I': 2, 'PE': 40, 'RB': 12}",mei,CRU,Provável,1
+684,102878,Terans,0.0,"{'FC': 1, 'FD': 1, 'PE': 1}",mei,ATL,Nulo,0
+685,42501,Rhodolfo,5.7,"{'FC': 4, 'FD': 1, 'FF': 1, 'PE': 3, 'RB': 1, 'SG': 2}",zag,FLA,Nulo,0
+686,38311,Márcio Araújo,0.0,"{'CA': 3, 'CV': 1, 'FC': 24, 'FD': 3, 'FF': 6, 'FS': 32, 'PE': 29, 'RB': 47}",mei,CHA,Provável,0
+687,98494,Lucas Bessa,0.0,{},mei,INT,Nulo,0
+688,102887,Bruno Lazaroni,2.72,{},tec,BOT,Provável,0
+689,103099,Éderson,2.6,"{'CA': 2, 'FC': 16, 'FD': 3, 'FF': 3, 'FS': 16, 'FT': 1, 'PE': 19, 'RB': 10}",mei,CRU,Provável,1
+690,98496,Vinícius,0.0,{},gol,CRU,Nulo,1
+691,102892,Yann Rolim,0.0,{},mei,CHA,Contundido,0
+692,98515,Lucas Silva,-0.5,"{'FC': 2, 'FF': 1, 'FS': 5, 'PE': 1, 'RB': 1}",ata,FLA,Provável,0
+693,102891,Romarinho Gouveia,0.0,{},ata,FOR,Nulo,1
+694,38315,Jadson,0.0,"{'A': 1, 'CA': 3, 'FC': 6, 'FD': 1, 'FF': 5, 'FS': 3, 'PE': 18, 'RB': 1}",mei,COR,Nulo,0
+695,102907,Matheus Teixeira,0.0,{},gol,PAL,Nulo,1
+696,102906,Anderson,0.0,{},gol,ATL,Nulo,0
+697,98569,Caio Henrique,0.0,"{'A': 1, 'FC': 26, 'FD': 2, 'FF': 3, 'FS': 19, 'G': 1, 'I': 5, 'PE': 50, 'RB': 37}",mei,FLU,Provável,0
+698,38336,Adriano,1.2,"{'CA': 3, 'FC': 4, 'FF': 1, 'FS': 1, 'PE': 9, 'RB': 5, 'SG': 2}",lat,ATL,Nulo,0
+699,98497,Natan,0.0,{},mei,PAL,Nulo,1
+700,38394,Thiago Heleno,1.1,"{'CA': 3, 'FC': 7, 'FD': 2, 'FS': 6, 'PE': 7, 'RB': 2}",zag,ATL,Suspenso,0
+701,102909,Luan,0.5,"{'CA': 2, 'FC': 27, 'FD': 1, 'FF': 3, 'FS': 5, 'PE': 24, 'RB': 21}",mei,SAO,Provável,0
+702,102912,César,0.0,{},lat,FLU,Nulo,0
+703,98706,Pedrinho,0.0,"{'A': 2, 'FC': 5, 'FD': 12, 'FF': 8, 'FS': 30, 'G': 4, 'I': 2, 'PE': 48, 'RB': 14}",mei,COR,Dúvida,0
+704,38431,Diego Cavalieri,12.7,"{'DD': 18, 'FC': 1, 'GS': 7, 'PE': 1}",gol,BOT,Dúvida,0
+705,38279,Wellington Paulista,-3.8,"{'A': 1, 'CA': 6, 'FC': 40, 'FD': 15, 'FF': 13, 'FS': 27, 'FT': 2, 'G': 9, 'I': 9, 'PE': 33, 'RB': 7}",ata,FOR,Suspenso,1
+706,98760,Mariano Vázquez,0.0,"{'CA': 1, 'FC': 11, 'FD': 2, 'FS': 12, 'PE': 5, 'RB': 8}",mei,FOR,Nulo,1
+707,99032,Lourenço,1.7,"{'A': 3, 'CA': 2, 'FC': 17, 'FD': 11, 'FF': 9, 'FS': 30, 'FT': 1, 'I': 4, 'PE': 45, 'RB': 17}",ata,AVA,Provável,1
+708,98765,Marquinhos,0.2,"{'FC': 2, 'FF': 2, 'FS': 2, 'PE': 4, 'RB': 1}",mei,ATL,Dúvida,0
+709,102958,Rhuan,0.0,"{'FC': 2, 'FS': 2, 'PE': 2}",ata,BOT,Nulo,0
+710,47134,Tião,0.0,{},mei,FOR,Nulo,1
+711,38451,Carlinhos,1.1,"{'CA': 1, 'FC': 15, 'FD': 6, 'FF': 8, 'FS': 18, 'G': 2, 'PE': 51, 'RB': 36, 'SG': 8}",lat,CSA,Provável,1
+712,99392,Michael,11.8,"{'A': 2, 'CA': 2, 'FC': 22, 'FD': 19, 'FF': 21, 'FS': 33, 'FT': 2, 'G': 5, 'I': 11, 'PE': 51, 'RB': 23}",ata,GOI,Provável,1
+713,98832,Jean Pyerre,0.0,"{'A': 2, 'FC': 10, 'FD': 4, 'FF': 7, 'FS': 11, 'G': 3, 'PE': 23, 'RB': 12}",mei,GRE,Contundido,1
+714,102998,Vini Locatelli,2.7,"{'A': 1, 'FC': 4, 'FD': 3, 'FS': 5, 'PE': 1, 'RB': 2}",mei,CHA,Provável,0
+715,38509,Diego Alves,17.5,"{'DD': 26, 'DP': 2, 'FS': 3, 'GS': 17, 'PE': 12, 'RB': 2, 'SG': 9}",gol,FLA,Provável,0
+716,38505,Leandro Castan,6.2,"{'A': 1, 'CA': 6, 'FC': 12, 'FD': 2, 'FF': 2, 'FS': 13, 'G': 2, 'I': 2, 'PE': 19, 'RB': 15, 'SG': 4}",zag,VAS,Provável,1
+717,102997,Tharlis,0.0,"{'FC': 2, 'FS': 1, 'PE': 2, 'RB': 3}",mei,CHA,Nulo,0
+718,98888,Cláudio Vitor,0.0,{},gol,AVA,Nulo,1
+719,98794,Diego Torres,-0.3,"{'FC': 3, 'FD': 2, 'FF': 9, 'FS': 5, 'G': 1, 'PE': 15, 'RB': 7}",mei,CHA,Nulo,0
+720,98822,Lucas Hernández,0.0,"{'CA': 2, 'FC': 10, 'FD': 1, 'FF': 1, 'FS': 6, 'PE': 10, 'RB': 3}",lat,ATL,Nulo,0
+721,38523,Edílson,0.7,"{'CA': 2, 'CV': 2, 'FC': 11, 'FF': 4, 'FS': 6, 'FT': 2, 'PE': 21, 'RB': 14, 'SG': 2}",lat,CRU,Provável,1
+722,38515,Marquinhos Silva,0.0,"{'CA': 2, 'FC': 14, 'FF': 8, 'FS': 6, 'FT': 1, 'I': 1, 'PE': 23, 'RB': 16, 'SG': 1}",zag,AVA,Nulo,1
+723,102999,Régis,7.4,"{'CA': 1, 'FC': 8, 'FD': 4, 'FF': 9, 'FS': 4, 'I': 3, 'PE': 14, 'RB': 11}",mei,CHA,Provável,0
+724,103069,Antonini,0.0,{},zag,GRE,Nulo,1
+725,103183,Andrew,0.0,{},gol,BOT,Nulo,0
+726,103076,Mateus Gonçalves,0.3,"{'CA': 1, 'FC': 7, 'FD': 2, 'FF': 6, 'FS': 8, 'G': 1, 'I': 1, 'PE': 20, 'RB': 8}",ata,CEA,Provável,0
+727,103446,Yuri ,0.0,{},mei,FLA,Nulo,0
+728,102852,Dudu,0.0,{},mei,VAS,Nulo,1
+729,103445,Kaio Jorge,0.0,{},ata,SAN,Nulo,1
+730,103455,Antony,0.0,"{'A': 3, 'CA': 1, 'CV': 1, 'FC': 14, 'FD': 14, 'FF': 12, 'FS': 46, 'FT': 2, 'G': 1, 'PE': 50, 'RB': 15}",ata,SAO,Dúvida,0
+731,103523,Ignácio,0.0,{},zag,BAH,Nulo,0
+732,103524,Phelipe,0.0,{},gol,GRE,Nulo,1
+733,103662,Júnior,0.0,{},gol,SAO,Nulo,0
+734,103700,Bruno Méndez,0.0,"{'CA': 1, 'FC': 2, 'PE': 9, 'RB': 7, 'SG': 1}",zag,COR,Nulo,0
+735,103645,Marcos Paulo,0.0,"{'A': 2, 'FC': 4, 'FD': 3, 'FF': 8, 'FS': 9, 'FT': 1, 'PE': 17, 'RB': 13}",ata,FLU,Nulo,0
+736,103764,Veron,0.0,{},ata,PAL,Nulo,1
+737,104026,João Pedro,3.4,"{'A': 1, 'CA': 1, 'FC': 22, 'FD': 17, 'FF': 20, 'FS': 27, 'FT': 1, 'G': 4, 'I': 7, 'PE': 27, 'RB': 14}",ata,FLU,Provável,0
+738,104074,Walce,0.0,"{'FC': 1, 'PE': 6, 'RB': 2, 'SG': 2}",zag,SAO,Nulo,0
+739,104080,André,0.0,{},gol,BOT,Nulo,0
+740,103579,Michel,0.0,{},mei,CRU,Nulo,1
+741,103706,Neto,0.0,{},mei,ATL,Nulo,0
+742,104128,Jaques,0.0,{},zag,BAH,Nulo,0
+743,104081,Alessandro,0.0,{},mei,BOT,Nulo,0
+744,104084,Carlos Miguel,0.0,{},gol,INT,Nulo,0
+745,104085,Bruno Fuchs,0.0,"{'CA': 1, 'FC': 3, 'FD': 1, 'FF': 1, 'FS': 4, 'PE': 10, 'RB': 5, 'SG': 2}",zag,INT,Dúvida,0
+746,104086,Roberto,5.7,"{'CA': 1, 'FC': 4, 'FS': 5, 'PE': 11, 'RB': 4, 'SG': 1}",zag,INT,Provável,0
+747,103724,Anderson Ceará,0.0,{},mei,SAN,Nulo,1
+748,104087,Pedro Lucas,0.0,"{'FC': 3, 'PE': 1}",ata,INT,Nulo,0
+749,104088,Matheus Stockl,0.0,{},zag,ATL,Nulo,0
+750,103684,Kaique Rocha,0.0,{},zag,SAN,Nulo,1
+751,104104,Falcão,0.0,{},mei,AVA,Nulo,1
+752,104250,João Victor,0.0,{},zag,COR,Nulo,0
+753,104276,Calegari,0.0,{},lat,FLU,Nulo,0
+754,104329,João Vitor,0.0,{},gol,AVA,Nulo,1
+755,104326,Nuno,0.0,{},zag,AVA,Nulo,1
+756,104257,João Lucas,3.9,"{'FC': 2, 'FS': 2, 'PE': 4, 'RB': 3, 'SG': 4}",lat,FLA,Provável,0
+757,104362,Gustavo Coutinho,0.0,{},ata,FOR,Nulo,1
+758,104333,Julian,0.0,{},mei,AVA,Nulo,1
+759,104325,Arthur,0.0,{},gol,CHA,Nulo,0
+760,104408,Igor Reis,0.0,{},mei,ATL,Nulo,0
+761,104327,Dudu,0.0,{},mei,AVA,Nulo,1
+762,104328,Rodrigo,0.0,{},gol,AVA,Nulo,1
+763,104459,Rick,0.0,"{'FC': 2, 'FF': 1, 'FS': 1, 'PE': 5, 'RB': 3}",ata,CEA,Nulo,0
+764,104404,Gabriel,0.0,{},mei,ATL,Nulo,0
+765,104356,Lucas Dias,0.0,{},zag,CSA,Nulo,1
+766,104401,Vitor Mendes,0.0,{},zag,ATL,Nulo,0
+767,104580,Sandry,0.0,{},mei,SAN,Nulo,1
+768,104415,Talison,0.0,{},lat,ATL,Nulo,0
+769,104513,Abner Vinícius,0.0,"{'A': 1, 'FC': 4, 'FS': 1, 'PE': 9, 'RB': 3, 'SG': 1}",lat,ATL,Nulo,0
+770,104591,Caíque,0.0,{},ata,BAH,Nulo,0
+771,104625,Weverton,-0.3,"{'FC': 1, 'FF': 1, 'FS': 3, 'PE': 11, 'RB': 3, 'SG': 2}",lat,CRU,Nulo,1
+772,104622,Hélio Júnior,0.0,{},lat,ATL,Nulo,0
+773,104646,Warley,0.0,{'FS': 1},lat,CSA,Nulo,1
+774,104634,Douglas Borel,0.0,{},lat,BAH,Nulo,0
+775,104649,Heitor,9.2,"{'A': 1, 'CA': 1, 'FC': 8, 'FD': 3, 'FF': 2, 'FS': 16, 'PE': 26, 'RB': 8, 'SG': 2}",lat,INT,Provável,0
+776,104660,Vinícius,0.0,{},ata,GOI,Nulo,1
+777,104650,Lucas Barros,0.0,"{'CA': 1, 'FC': 6, 'FS': 2, 'PE': 5, 'RB': 4, 'SG': 1}",lat,BOT,Dúvida,0
+778,104578,Tailson,-2.0,"{'FC': 9, 'FD': 2, 'FF': 2, 'FS': 3, 'G': 1, 'I': 2, 'PE': 11, 'RB': 1}",ata,SAN,Dúvida,1
+779,104593,Darlan,0.0,"{'FC': 7, 'FD': 1, 'FF': 2, 'FS': 1, 'PE': 10, 'RB': 8}",mei,GRE,Nulo,1
+780,106199,Gabriel Pec,0.0,"{'FS': 2, 'PE': 4, 'RB': 1}",mei,VAS,Nulo,1
+781,38545,Felipe Melo,0.0,"{'A': 1, 'CA': 6, 'CV': 1, 'FC': 27, 'FD': 3, 'FF': 13, 'FS': 20, 'G': 1, 'PE': 31, 'RB': 19}",mei,PAL,Provável,1
+782,104651,Lucas Alves,0.0,{},gol,BOT,Nulo,0
+783,38573,Nilton,0.0,"{'CA': 3, 'FC': 9, 'FF': 2, 'FS': 6, 'PE': 11, 'RB': 7}",mei,CSA,Nulo,1
+784,38738,Douglas,0.0,"{'CA': 1, 'FC': 2, 'FD': 1, 'FF': 5, 'FS': 6, 'I': 2, 'PE': 28, 'RB': 2}",mei,AVA,Nulo,1
+785,41327,Vanderlei Luxemburgo,4.51,{},tec,VAS,Provável,1
+786,40006,Abel Braga,4.85,{},tec,CRU,Provável,1
+787,41258,Adilson Batista,7.18,{},tec,CEA,Provável,0
+788,38632,Matheus Ferraz,0.0,"{'CA': 1, 'FC': 7, 'FD': 4, 'FF': 3, 'FS': 2, 'G': 1, 'I': 1, 'PE': 6, 'RB': 11}",zag,FLU,Contundido,0
+789,38648,Hernanes,5.2,"{'A': 4, 'CA': 4, 'FC': 21, 'FD': 12, 'FF': 13, 'FS': 21, 'G': 2, 'I': 1, 'PE': 22, 'RB': 21}",mei,SAO,Dúvida,0
+790,38750,Filipe Luís,0.0,"{'FC': 16, 'FD': 1, 'FS': 4, 'PE': 25, 'RB': 32, 'SG': 4}",lat,FLA,Contundido,0
+791,38909,Diego,0.0,"{'CA': 5, 'FC': 10, 'FD': 6, 'FF': 7, 'FS': 16, 'FT': 2, 'PE': 25, 'PP': 1, 'RB': 9}",mei,FLA,Contundido,0
+792,41929,Renato Gaúcho,7.16,{},tec,GRE,Provável,1
+793,38910,Ricardo Oliveira,0.0,"{'A': 2, 'FC': 14, 'FD': 9, 'FF': 10, 'FS': 16, 'FT': 1, 'G': 2, 'I': 2, 'PE': 11, 'PP': 1, 'RB': 5}",ata,ATL,Nulo,0
+794,38913,Nenê,9.0,"{'A': 2, 'CV': 1, 'FC': 15, 'FD': 3, 'FF': 12, 'FS': 23, 'G': 3, 'I': 2, 'PE': 54, 'RB': 13}",mei,FLU,Provável,0
+795,38959,Vagner Love,1.2,"{'CA': 3, 'FC': 24, 'FD': 4, 'FF': 7, 'FS': 30, 'G': 5, 'I': 8, 'PE': 30, 'RB': 13}",ata,COR,Provável,0
+796,42116,Willian,0.0,"{'CA': 1, 'CV': 1, 'FC': 7, 'FD': 5, 'FS': 12, 'G': 4, 'I': 2, 'PE': 16, 'RB': 4}",ata,PAL,Provável,1
+797,38939,Daniel Alves,0.0,"{'A': 1, 'CA': 1, 'FC': 21, 'FD': 3, 'FF': 7, 'FS': 18, 'FT': 1, 'G': 1, 'I': 3, 'PE': 29, 'RB': 14, 'SG': 3}",lat,SAO,Dúvida,0
+798,39572,Renato,0.2,"{'FD': 3, 'FF': 3, 'FS': 11, 'PE': 4, 'RB': 2}",ata,CHA,Nulo,0
+799,42145,Egídio,6.1,"{'A': 1, 'CA': 1, 'FC': 20, 'FD': 7, 'FF': 5, 'FS': 15, 'I': 1, 'PE': 49, 'RB': 30, 'SG': 5}",lat,CRU,Provável,1
+800,42477,Maurício Ramos,0.0,"{'FC': 13, 'FD': 2, 'FF': 1, 'FS': 8, 'PE': 13, 'RB': 5, 'SG': 3}",zag,CHA,Nulo,0
+801,42234,Cássio,-2.0,"{'CA': 5, 'DD': 23, 'FS': 4, 'GS': 15, 'PE': 9, 'SG': 9}",gol,COR,Provável,0
+802,62023,D'Alessandro,0.4,"{'A': 1, 'CA': 2, 'FC': 2, 'FD': 6, 'FF': 5, 'FS': 9, 'G': 1, 'I': 5, 'PE': 40, 'PP': 1, 'RB': 4}",mei,INT,Provável,0
+803,42491,Márcio Azevedo,2.4,"{'A': 2, 'CA': 3, 'FC': 21, 'FD': 1, 'FF': 4, 'FS': 17, 'I': 1, 'PE': 34, 'RB': 14, 'SG': 6}",lat,ATL,Provável,0
+804,42499,Bruno,0.0,"{'CA': 1, 'CV': 1, 'FC': 7, 'FF': 1, 'FS': 5, 'PE': 13, 'RB': 7, 'SG': 4}",lat,INT,Nulo,0
+805,42222,Osvaldo,-1.3,"{'A': 3, 'CA': 2, 'CV': 1, 'FC': 20, 'FD': 4, 'FF': 11, 'FS': 9, 'FT': 2, 'G': 2, 'PE': 28, 'RB': 9}",ata,FOR,Provável,1
+806,37662,Jonathan,0.0,"{'CA': 2, 'FC': 4, 'FD': 1, 'FS': 3, 'G': 1, 'PE': 7, 'RB': 6, 'SG': 2}",lat,ATL,Contundido,0
+807,49673,Júlio César,0.0,"{'DD': 17, 'GS': 13, 'PE': 1, 'SG': 2}",gol,GRE,Nulo,1
+808,49675,Alexandre Pato,4.8,"{'CA': 1, 'FC': 11, 'FD': 7, 'FF': 17, 'FS': 24, 'G': 5, 'I': 8, 'PE': 30, 'RB': 13}",ata,SAO,Provável,0
+809,42232,Amaral,0.0,"{'FC': 4, 'FS': 2, 'PE': 3, 'RB': 7}",mei,CHA,Nulo,0
+810,61033,Rodriguinho,0.0,"{'CA': 2, 'FC': 3, 'FD': 1, 'FF': 3, 'FS': 7, 'G': 1, 'I': 1, 'PE': 9, 'RB': 4}",mei,CRU,Contundido,1
+811,61228,Fabrício,0.0,{},gol,CSA,Nulo,1
+812,61149,Lucca,1.2,"{'CA': 1, 'FC': 14, 'FD': 9, 'FF': 6, 'FS': 21, 'I': 1, 'PE': 15, 'RB': 10}",ata,BAH,Dúvida,0
+813,61985,Airton,2.0,"{'CA': 2, 'CV': 1, 'FC': 10, 'FS': 11, 'PE': 7, 'RB': 5}",mei,FLU,Nulo,0
+814,62086,Pará,0.0,"{'CA': 3, 'FC': 10, 'FS': 5, 'PE': 10, 'RB': 12, 'SG': 3}",lat,SAN,Nulo,1
+815,62033,Fernandão,0.0,"{'CA': 1, 'CV': 1, 'FC': 8, 'FD': 7, 'FF': 15, 'FS': 13, 'G': 3, 'I': 6, 'PE': 13, 'RB': 5}",ata,BAH,Nulo,0
+816,62047,Jean,0.0,"{'FC': 2, 'PE': 2}",mei,PAL,Nulo,1
+817,62009,Camilo,8.0,"{'A': 3, 'CA': 2, 'FC': 26, 'FD': 9, 'FF': 12, 'FS': 16, 'FT': 1, 'G': 1, 'I': 5, 'PE': 42, 'RB': 15}",mei,CHA,Provável,0
+818,38140,Fernando Prass,5.0,{'SG': 1},gol,PAL,Nulo,1
+819,62121,Vanderlei,0.0,"{'DD': 15, 'FS': 2, 'GS': 6, 'PE': 4, 'SG': 3}",gol,SAN,Nulo,1
+820,62104,Robinho,0.0,"{'A': 1, 'CA': 6, 'FC': 28, 'FD': 4, 'FF': 12, 'FS': 21, 'G': 1, 'PE': 83, 'RB': 17}",mei,CRU,Provável,1
+821,62129,Wellington,0.3,"{'CA': 7, 'FC': 31, 'FD': 1, 'FF': 2, 'FS': 6, 'PE': 39, 'RB': 9}",mei,ATL,Provável,0
+822,62968,Maicon,0.0,"{'A': 2, 'CA': 1, 'FC': 6, 'FD': 1, 'FF': 1, 'FS': 5, 'I': 1, 'PE': 8, 'RB': 6}",ata,ATL,Nulo,0
+823,62128,Walter,0.0,{},ata,GOI,Suspenso,1
+824,49651,Ernando,0.0,"{'FC': 2, 'FS': 4, 'FT': 1, 'G': 1, 'PE': 3, 'RB': 4, 'SG': 4}",zag,BAH,Nulo,0
